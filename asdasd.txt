@@ -31,7 +31,7 @@ kik azok akik a rendszert használni fogják?
 	iktatás: diplomaterv téma felvétel "ügy" egyedi azonosítóval történp ellátása és
 		 az "ügy" Egyetemi nyilvántartásban történő rögzítése
 
-	ügy: iktatott bármilyen üzleti cselekmény
+	ügy: iktatott bármilyen üzleti cselekmény, a cím szerinti cselekmény
 	diptervkiírás: a diplomaterv követelményeit rögzítő dokumentum
 	bírálat: a diplomamunka értékelése a kiírás alapján
 	szakvezető:
