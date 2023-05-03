@@ -63,13 +63,18 @@ Alternatív forgatókönyv:
 - Aktor: Hallgató
 - Előfeltétel:
   - Feltöltötte a hallgató a dolgozatot és az iktatásra került.
+  > :memo: **Note:** Legyen menthető a rendszerben egy átmeneti állapot a végleges leadás előtt. (A rendszer ne adja le automatikusan a dolgozatot. Kelljen a hallgatónak azzal hitelesíteni-e, hogy rányom a leadás gombra)
   - A Hallgató a megfelelő oldalon van.
   - Kiválasztotta a hallgató a záróvizsga tárgyát
+  > :memo: **Note:** Dipterv1 leadása után nincs zv vagy dipterv 2 után, tehát nem vonatkozik ide a Követelmények 12 §
 - Elsődleges forgatókönyv:
   1. A Hallgató kiválasztja a dolgozat leadása funkciót.
   2. A Rendszer iktatja, hogy a dolgozat leadásra kerül.
   3. A Rendszer értesíti a Hallgató belső konzulensét.
-  4. A Rendszernek elérhetővé kell tennie a Szakvezető számára az ügyet.
+  4. A Rendszernek elérhetővé kell tennie a Szakvezető számára az ügyet.  
+  > :memo: **Note:** Látja e a Szakvezető az iktatások alapján az iktatás tárgyát?  
+  > :memo: **Note:** Minden iktatás során az ügyben érintetteket értesítse az iktató aktor.  
+  > :memo: **Note:** Az érintett aktorok számára legyen elérhető felület ahol az értesítéseiket látják
 - Alternatív forgatókönyv:
 
 
@@ -97,6 +102,8 @@ Alternatív forgatókönyv:
 
 - Alternatív forgatókönyv:
   - 5/a A Rendszer jelzi, hogy a kiválasztott hallgatóhoz már van bíráló rendelve.
+  > :memo: **Note:** Ebben az esetben csak a tanszékvezető módosíthatja az adatokat.
+
   - 8/a A Rendszer jelzi, hogy a megadott email cím nem megfelelő. A use case a 7. ponttól folytatódik.
   - 8/b A Rendszer jelzi, hogy a megadott végzettség nem megfelelő. A use case a 7zo. ponttól folytatódik.
 
