@@ -36,3 +36,19 @@ kik azok akik a rendszert használni fogják?
 	bírálat: a diplomamunka értékelése a kiírás alapján
 	szakvezető:
 	tanszékvezető:
+
+
+
+# Második házi feladatként
+
+- unified process alapján
+  - haladunk, két fajta iterációt különböztetönk meg
+
+
+
+  - ötleteket ad hogy milyen követelményeket kell megtennem
+    - hány tranzakció van egyetlen dömpingben
+    - mekkora adatbázis kell mögé, évente hány dolgozat kerül beadásra.
+
+- Domain Model
+  - 
