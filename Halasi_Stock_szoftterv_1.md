@@ -202,23 +202,26 @@ A Szakdolgozat vagy Diplomaterv értékelésére felkért, a munka elkészítés
 - Main success scenario (or basic flow):
   1. A **Konzulens** kiválasztja továbbítás funkciót.
   2. A **Rendszer** megjeleníti a továbbító felületet.
-  3. A **Konzulens** kiválasztja a továbbítandó dolgozatot és a címzettet. Az elsődleges auto-fill a címzettre mindig a kijelölt bíráló.
-  4. A **Rendszer** kitölt egy emailt a címzettel és az email törzsét egy szövegsablonnal, amely tartalmazza a határidőket és egyéb szükséges információkat.
-  5. A **Rendszer** csatolja a **Hallgató** témakiírását.
-  6. A **Rendszer** csatolja a **Hallgató** dolgozatát.
-  7. A **Rendszer** csatolja a bírálati űrlapot.
-  8. A **Rendszer** megjeleníti az előnézeti felületet.
-  9. A **Konzulens** kiválasztja a küldés funkciót.
-  10. A **Rendszer** megjeleníti a küldés megerősítése funkciót.
-  11. A **Konzulens** kiválasztja a megerősítése funkciót.
-  12. A **Rendszer** továbbítja az üzenetet a címzett számára.
-  13.  A **Rendszer** értesíti a Konzulenst a továbbítás sikerességéről.
-  14. A **Rendszer** iktatja a kiküldött levelet.
-  15. A **Rendszer** hozzárendeli a **Bíráló**hoz a bírálás feladatát, amennyiben **Tanszéki Kolléga**.
-  16. A **Rendszer** törli a feladatok közül a bírálatra továbbítást.
-  17. A **Rendszer** megjeleníti a továbbító felületet.
+  3. A **Konzulens** kiválasztja a továbbítandó dolgozatot és a címzettet.
+  4. A **Rendszer** kitölti a címzettet a dolgozathoz rendelt bírálóval.
+  5. A **Konzulens** nyugtázza a címzettet.
+  6. A **Rendszer** kitölt egy emailt a címzettel és az email törzsét egy szövegsablonnal, amely tartalmazza a határidőket és egyéb szükséges információkat.
+  7. A **Rendszer** csatolja a **Hallgató** témakiírását.
+  8. A **Rendszer** csatolja a **Hallgató** dolgozatát.
+  9. A **Rendszer** csatolja a bírálati űrlapot.
+  10. A **Rendszer** megjeleníti az előnézeti felületet.
+  11. A **Konzulens** kiválasztja a küldés funkciót.
+  12. A **Rendszer** megjeleníti a küldés megerősítése funkciót.
+  13. A **Konzulens** kiválasztja a megerősítése funkciót.
+  14. A **Rendszer** továbbítja az üzenetet a címzett számára.
+  15.  A **Rendszer** értesíti a Konzulenst a továbbítás sikerességéről.
+  16. A **Rendszer** iktatja a kiküldött levelet.
+  17. A **Rendszer** hozzárendeli a **Bíráló**hoz a bírálás feladatát, amennyiben **Tanszéki Kolléga**.
+  18. A **Rendszer** törli a feladatok közül a bírálatra továbbítást.
+  19. A **Rendszer** megjeleníti a továbbító felületet.
 
 - Extensions (or alternative flows):
+  - 5/a. A **Konzulens** másik címzettet választ, a USE CASE a 6. ponttal folytatódik.
   - 8/a. A **Konzulens** módosítást eszközöl az emailen, a USE CASE a 7. ponttól folytatódik.
   - 9/a. A **Konzulens** nem fogadja el a megerősítést, a USE CASE a 7. ponttól folytatódik.
   - 12/a. A továbbítás nem sikeres, erről a **Konzulens** értesítésre kerül, a USE CASE a 2. ponttól folytatódik.
