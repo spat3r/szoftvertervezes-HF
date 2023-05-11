@@ -202,7 +202,7 @@ A Szakdolgozat vagy Diplomaterv értékelésére felkért, a munka elkészítés
 - Main success scenario (or basic flow):
   1. A **Konzulens** kiválasztja továbbítás funkciót.
   2. A **Rendszer** megjeleníti a továbbító felületet.
-  3. A **Konzulens** kiválasztja a továbbítandó dolgozatot és a címzettet.
+  3. A **Konzulens** kiválasztja a továbbítandó dolgozatot.
   4. A **Rendszer** kitölti a címzettet a dolgozathoz rendelt bírálóval.
   5. A **Konzulens** nyugtázza a címzettet.
   6. A **Rendszer** kitölt egy emailt a címzettel és az email törzsét egy szövegsablonnal, amely tartalmazza a határidőket és egyéb szükséges információkat.
