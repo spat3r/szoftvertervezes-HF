@@ -11,27 +11,34 @@ Feladatunk
 
 ## Aktorok
 
-#### Hallgató
+
+###### Hallgató
 A **Hallgató** olyan személy, aki az Egyetemmel hallgatói jogviszonyban van és  teljesítette a Szakdolgozat-készítés vagy Diplomatervezés tárgyakhoz tartozó mérföldköveket.
 
-#### Tanszéki kolléga
+
+###### Tanszéki kolléga
 Az Egyetem egy munkatársa.
 
-#### Konzulens
+
+###### Konzulens
 A Hallgató szakmai támogatásáért és segítéséért felelős Tanszéki kolléga. A diplomamunkák elkészítése során a feladatok kiírásáért, konzultásiók megtartásáért felelős. 
 
-#### Szakvezető
+
+###### Szakvezető
 Az Egyetemen a szak vezetéséért és ügyiért felelős munkatárs, a Tanszéki kollégák közül kerül ki.
 
-#### Tanszékvezető
+
+###### Tanszékvezető
 Az Egyetemen a Tanszék vezetéséért és ügyiért felelős munkatárs, a Tanszéki kollégák közül kerül ki.
 
-#### Tanszéki ügyintéző
+
+###### Tanszéki ügyintéző
 A Tanszéki ügyekért felelős Tanszéki kolléga
 
 
 ## Másodlagos Aktorok
-#### Címtár
+
+###### Címtár
 Az Egyetem belső rendszere, amely a Hallgatók bejelentkeztetésére szolgál, illetve tárolja a legfontosabb adataikat.
 
 
@@ -39,23 +46,25 @@ Az Egyetem belső rendszere, amely a Hallgatók bejelentkeztetésére szolgál, 
 
 ## Fogalmak
 
-#### Ügy
+
+###### Ügy
 Iktatott, bármilyen üzleti cselekmény. Az Egyetemen végbemenő, hivatalos cselekmények és tevékenységek.
 
-#### Diplomaterv Kiírás / Témakiírás
+###### Diplomaterv Kiírás / Témakiírás
 Természetes nyelven megfogalmatzott dokumentum. Rögzíti a hallgató Diplomatervezés vagy Szakdolgozat-készítés tárgy keretében elkészítendő feladatával kapcsolatban több információt.
 - Egy rövid leírását a témával kapcsolatban.
 - Dolgozat elkészítése során elvégzendő feladatokat.
 - A Konzulens és a Tanszék vagy Szakvezető hitelesítét.
 
-#### Bírálat
+
+###### Bírálat
 Természetes nyelven megfogalmatzott dokumentum. Rögzíti a hallgató Diplomatervezés vagy Szakdolgozat-készítés tárgy keretében elkészített feladatának szakmai szempontok szerinti értékelését.
 - A Bírálatnak értékelnie kell, hogy a kiírásban megadott feladatok milyen mértékben és minőségben készültek el.
 - A Bírálatot a Bírálati sablon alapján szükséges elkészíteni.
 - A Bírálatnak szakmailag kell értékelnie a dolgozatban vázolt eredményeket.
 - A Bírálatnak formai szempontból kell értékelni a dolgozat összeállítását.
 
-#### Bíráló
+###### Bíráló
 A Szakdolgozat vagy Diplomaterv értékelésére felkért, a munka elkészítésétől jól elhatárolható személy. A bírálónak legalább olyan szintű ISCED besorolású végzettséggel kell rendelkezzen, mint amit az általa bírált mű sikeres megvédésével el lehet érni.
 
 
@@ -72,7 +81,7 @@ A Szakdolgozat vagy Diplomaterv értékelésére felkért, a munka elkészítés
 - Success Guarantee:
   - A dolgozat feltöltésre került.
 - Main success scenario (or basic flow):
-  1. A **Hallgató** kiválasztja a fájl feltöltése funkciót.
+  1. A **Hallgató** kiválasztja a dolgozat feltöltése funkciót.
   2. A **Rendszer** megjeleníti a Feltöltési felületet.
   3. A **Hallgató** behúzza a feltölteni kívánt fájlt vagy Böngésző fájlfeltöltő funkciójával kiválasztja feltöltendő fájlt
   4. A **Rendszer** ellenőrzi a fájl nevét, kiterjesztését és a méretét.
@@ -89,17 +98,23 @@ A Szakdolgozat vagy Diplomaterv értékelésére felkért, a munka elkészítés
 
 - Technology and Data Variation List:
   - Hordozható dokumentum (.pdf) (max. 16 MB)
+  - Fájlfeltöltő funkció.
 
+---
 #### USE CASE [UC2]: Dolgozat leadása
 - Primary Actor: **Hallgató**
+
 - Stakeholders and Interest:
   - **Hallgató**: Gördülékenyen le tudja adni a dolgozatot.
-- Preconditions::
+
+- Preconditions:
   - Feltöltötte a **Hallgató** a dolgozatot és az iktatásra került.
   - A **Hallgató** a megfelelő oldalon van.
   - Kiválasztotta a **Hallgató** a záróvizsga tárgyát
+
 - Success Guarantee:
   - A dolgozat leadásának rögzítése sikeres, a szakvezető és a Konzulens értesítésre kerül.
+
 - Main success scenario (or basic flow):
   1. A **Hallgató** kiválasztja a dolgozat leadása funkciót.
   2. A **Rendszer** iktatja, hogy a dolgozat leadásra került.
@@ -118,6 +133,7 @@ A Szakdolgozat vagy Diplomaterv értékelésére felkért, a munka elkészítés
 
 
 
+---
 #### USE CASE [UC3]: Bíráló rögzítése
 - Primary Actor: **Konzulens**
 
@@ -125,7 +141,7 @@ A Szakdolgozat vagy Diplomaterv értékelésére felkért, a munka elkészítés
   - **Konzulens**: A bíráló rögzítése funkció és a hallgatók listázása funkció gördülékeny.
   - **Konzulens**: A felület valós időben ellenőzi a bevitt adatokat.
 
-- Preconditions::
+- Preconditions:
   - A **Hallgató**nak van érvényes témakiírása.
 
 - Success Guarantee:
@@ -156,11 +172,12 @@ A Szakdolgozat vagy Diplomaterv értékelésére felkért, a munka elkészítés
 
 
 
+---
 #### USE CASE [UC4]: Leadott dolgozat jóváhagyása
 - Primary Actor: **Konzulens**
 - Stakeholders and interests:
   - **Konzulens**: Könnyen átlátható felületen tudja ellenőrízni a hallgató adatait és a dolgozatot.
-- Preconditions::
+- Preconditions:
   - A **Dolgozat** leadása iktatásra került.
 - Success Guarantee:
   - A leadott dolgozat "leadása" jóváhagyásra kerül.
@@ -191,41 +208,48 @@ A Szakdolgozat vagy Diplomaterv értékelésére felkért, a munka elkészítés
   - A PDF olvasó csak néhány oldalt jelenítsen meg (pl. 1-3, 5, 10, 30, utolsó)
 
 
+---
 #### USE CASE [UC5]: Leadott dolgozat bírálatra továbbítása
 - Primary Actor: **Konzulens**
+
 - Stakeholders and interests:
   - **Konzulens**: Szeretné gördülékenyen továbbítani a dolgozatot.
-- Preconditions::
+
+- Preconditions:
   - A **Dolgozat** jóváhagyásra került a Konzulens által.
+
 - Success Guarantee:
-  - A Bíráló megkapja az értesítést és a dokumentumokat.
+  - A **Bíráló** megkapja az értesítést és a dokumentumokat.
+
 - Main success scenario (or basic flow):
   1. A **Konzulens** kiválasztja továbbítás funkciót.
   2. A **Rendszer** megjeleníti a továbbító felületet.
-  3. A **Konzulens** kiválasztja a továbbítandó dolgozatot.
+  3. A **Konzulens** kiválasztja a **Hallgatót**, majd a továbbítandó dolgozatot.
   4. A **Rendszer** kitölti a címzettet a dolgozathoz rendelt bírálóval.
   5. A **Konzulens** nyugtázza a címzettet.
-  6. A **Rendszer** kitölt egy emailt a címzettel és az email törzsét egy szövegsablonnal, amely tartalmazza a határidőket és egyéb szükséges információkat.
+  6. A **Rendszer** kitölt egy email sablont.
+     - Címzett
+     - Email törzsébe egy szövegsablon kerül határidőkkel és egyéb szükséges információkkal.
   7. A **Rendszer** csatolja a **Hallgató** témakiírását.
   8. A **Rendszer** csatolja a **Hallgató** dolgozatát.
   9. A **Rendszer** csatolja a bírálati űrlapot.
   10. A **Rendszer** megjeleníti az előnézeti felületet.
   11. A **Konzulens** kiválasztja a küldés funkciót.
   12. A **Rendszer** megjeleníti a küldés megerősítése funkciót.
-  13. A **Konzulens** kiválasztja a megerősítése funkciót.
+  13. A **Konzulens** kiválasztja a megerősítés funkciót.
   14. A **Rendszer** továbbítja az üzenetet a címzett számára.
-  15.  A **Rendszer** értesíti a Konzulenst a továbbítás sikerességéről.
+  15. A **Rendszer** értesíti a Konzulenst a továbbítás sikerességéről.
   16. A **Rendszer** iktatja a kiküldött levelet.
   17. A **Rendszer** hozzárendeli a **Bíráló**hoz a bírálás feladatát, amennyiben **Tanszéki Kolléga**.
   18. A **Rendszer** törli a feladatok közül a bírálatra továbbítást.
   19. A **Rendszer** megjeleníti a továbbító felületet.
-<!---> TODO: frissíteni kell a számozást <--->
+
 - Extensions (or alternative flows):
   - 5/a. A **Konzulens** másik címzettet választ, a USE CASE a 6. ponttal folytatódik.
-  - 8/a. A **Konzulens** módosítást eszközöl az emailen, a USE CASE a 7. ponttól folytatódik.
-  - 9/a. A **Konzulens** nem fogadja el a megerősítést, a USE CASE a 7. ponttól folytatódik.
-  - 12/a. A továbbítás nem sikeres, erről a **Konzulens** értesítésre kerül, a USE CASE a 2. ponttól folytatódik.
-  - 14/a. A **Bíráló** nem **Tanszéki kolléga**, a USE CASE a 15. ponttól folytatódik.
+  - 11/a. A **Konzulens** módosítást eszközöl az emailen, a USE CASE a 10. ponttól folytatódik.
+  - 12/a. A **Konzulens** nem fogadja el a megerősítést, a USE CASE a 10. ponttól folytatódik.
+  - 14/a. A továbbítás nem sikeres, erről a **Konzulens** értesítésre kerül, a USE CASE a 2. ponttól folytatódik.
+  - 17/a. A **Bíráló** nem **Tanszéki kolléga**, a USE CASE a 18. ponttól folytatódik.
 
 - Special requirements:
   - Stabil kapcsolat a szerverrel.
