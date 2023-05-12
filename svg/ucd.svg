@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="719.51904296875"
+   height="278"
+   id="svg242"
+   sodipodi:docname="UseCaseDiagram.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata246">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview244"
+     showgrid="false"
+     inkscape:zoom="1.7108651"
+     inkscape:cx="361.83526"
+     inkscape:cy="159.26265"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg242" />
+  <defs
+     id="defs2" />
+  <g
+     id="g240"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g6">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 172.68254367897728 217.68 C 172.68254367897728 212.886167936 176.56838600392274 209 181.36181640625 209 C 186.15524680857726 209 190.04108913352272 212.886167936 190.04108913352272 217.68 C 190.04108913352272 222.47383206400002 186.15524680857726 226.36 181.36181640625 226.36 C 176.56838600392274 226.36 172.68254367897728 222.47383206400002 172.68254367897728 217.68 Z"
+         id="path4" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g10">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 172.68254367897728 217.68 C 172.68254367897728 212.886167936 176.56838600392274 209 181.36181640625 209 C 186.15524680857726 209 190.04108913352272 212.886167936 190.04108913352272 217.68 C 190.04108913352272 222.47383206400002 186.15524680857726 226.36 181.36181640625 226.36 C 176.56838600392274 226.36 172.68254367897728 222.47383206400002 172.68254367897728 217.68 Z"
+         stroke-miterlimit="10"
+         id="path8" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g14">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 181.36181640625 226.36 L 181.36181640625 243.64"
+         stroke-miterlimit="10"
+         id="path12" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g18">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 172.17199822443183 232.84 L 190.55163458806817 232.84"
+         stroke-miterlimit="10"
+         id="path16" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g22">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 181.36181640625 243.64 L 168.59818004261365 261"
+         stroke-miterlimit="10"
+         id="path20" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g26">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 181.36181640625 243.64 L 194.12545276988635 261"
+         stroke-miterlimit="10"
+         id="path24" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g34">
+      <g
+         id="g32">
+        <path
+           fill="none"
+           stroke="none"
+           id="path28" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="148.5"
+           y="280"
+           id="text30">Konzulens</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g38">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 173.46208469460228 361.68 C 173.46208469460228 356.886167936 177.34792701954774 353 182.141357421875 353 C 186.93478782420226 353 190.82063014914772 356.886167936 190.82063014914772 361.68 C 190.82063014914772 366.473832064 186.93478782420226 370.36 182.141357421875 370.36 C 177.34792701954774 370.36 173.46208469460228 366.473832064 173.46208469460228 361.68 Z"
+         id="path36" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g42">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 173.46208469460228 361.68 C 173.46208469460228 356.886167936 177.34792701954774 353 182.141357421875 353 C 186.93478782420226 353 190.82063014914772 356.886167936 190.82063014914772 361.68 C 190.82063014914772 366.473832064 186.93478782420226 370.36 182.141357421875 370.36 C 177.34792701954774 370.36 173.46208469460228 366.473832064 173.46208469460228 361.68 Z"
+         stroke-miterlimit="10"
+         id="path40" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g46">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 182.141357421875 370.36 L 182.141357421875 387.64"
+         stroke-miterlimit="10"
+         id="path44" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g50">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 172.95153924005683 376.84 L 191.33117560369317 376.84"
+         stroke-miterlimit="10"
+         id="path48" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g54">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 182.141357421875 387.64 L 169.37772105823865 405"
+         stroke-miterlimit="10"
+         id="path52" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g58">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 182.141357421875 387.64 L 194.90499378551135 405"
+         stroke-miterlimit="10"
+         id="path56" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g66">
+      <g
+         id="g64">
+        <path
+           fill="none"
+           stroke="none"
+           id="path60" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="156.5"
+           y="424"
+           id="text62">Hallgató</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g70">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 375 424 C 375 414.6111584 414.3989376 407 463 407 C 511.6010624 407 551 414.6111584 551 424 C 551 433.3888416 511.6010624 441 463 441 C 414.3989376 441 375 433.3888416 375 424 Z"
+         opacity="0.2"
+         id="path68" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g74">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 368 417 C 368 407.6111584 407.3989376 400 456 400 C 504.6010624 400 544 407.6111584 544 417 C 544 426.3888416 504.6010624 434 456 434 C 407.3989376 434 368 426.3888416 368 417 Z"
+         id="path72" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g78">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 368 417 C 368 407.6111584 407.3989376 400 456 400 C 504.6010624 400 544 407.6111584 544 417 C 544 426.3888416 504.6010624 434 456 434 C 407.3989376 434 368 426.3888416 368 417 Z"
+         stroke-miterlimit="10"
+         id="path76" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g86">
+      <g
+         id="g84">
+        <path
+           fill="none"
+           stroke="none"
+           id="path80" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="398.21728515625"
+           y="422.5"
+           id="text82">Dolgozat feltöltése</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g90">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 383 368 C 383 358.6111584 419.4887888 351 464.5 351 C 509.5112112 351 546 358.6111584 546 368 C 546 377.3888416 509.5112112 385 464.5 385 C 419.4887888 385 383 377.3888416 383 368 Z"
+         opacity="0.2"
+         id="path88" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g94">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 376 361 C 376 351.6111584 412.4887888 344 457.5 344 C 502.5112112 344 539 351.6111584 539 361 C 539 370.3888416 502.5112112 378 457.5 378 C 412.4887888 378 376 370.3888416 376 361 Z"
+         id="path92" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g98">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 376 361 C 376 351.6111584 412.4887888 344 457.5 344 C 502.5112112 344 539 351.6111584 539 361 C 539 370.3888416 502.5112112 378 457.5 378 C 412.4887888 378 376 370.3888416 376 361 Z"
+         stroke-miterlimit="10"
+         id="path96" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g106">
+      <g
+         id="g104">
+        <path
+           fill="none"
+           stroke="none"
+           id="path100" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="404.40185546875"
+           y="366.5"
+           id="text102">Dolgozat leadása</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g110">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 391 312 C 391 302.6111584 424.8024976 295 466.5 295 C 508.1975024 295 542 302.6111584 542 312 C 542 321.3888416 508.1975024 329 466.5 329 C 424.8024976 329 391 321.3888416 391 312 Z"
+         opacity="0.2"
+         id="path108" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g114">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 384 305 C 384 295.6111584 417.8024976 288 459.5 288 C 501.1975024 288 535 295.6111584 535 305 C 535 314.3888416 501.1975024 322 459.5 322 C 417.8024976 322 384 314.3888416 384 305 Z"
+         id="path112" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g118">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 384 305 C 384 295.6111584 417.8024976 288 459.5 288 C 501.1975024 288 535 295.6111584 535 305 C 535 314.3888416 501.1975024 322 459.5 322 C 417.8024976 322 384 314.3888416 384 305 Z"
+         stroke-miterlimit="10"
+         id="path116" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g126">
+      <g
+         id="g124">
+        <path
+           fill="none"
+           stroke="none"
+           id="path120" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="410.7373046875"
+           y="310.5"
+           id="text122">Bíráló rögzítése</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g130">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 335 256 C 335 246.6111584 396.56084 239 472.5 239 C 548.43916 239 610 246.6111584 610 256 C 610 265.3888416 548.43916 273 472.5 273 C 396.56084 273 335 265.3888416 335 256 Z"
+         opacity="0.2"
+         id="path128" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g134">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 328 249 C 328 239.6111584 389.56084 232 465.5 232 C 541.43916 232 603 239.6111584 603 249 C 603 258.3888416 541.43916 266 465.5 266 C 389.56084 266 328 258.3888416 328 249 Z"
+         id="path132" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g138">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 328 249 C 328 239.6111584 389.56084 232 465.5 232 C 541.43916 232 603 239.6111584 603 249 C 603 258.3888416 541.43916 266 465.5 266 C 389.56084 266 328 258.3888416 328 249 Z"
+         stroke-miterlimit="10"
+         id="path136" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g146">
+      <g
+         id="g144">
+        <path
+           fill="none"
+           stroke="none"
+           id="path140" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="372.67822265625"
+           y="254.5"
+           id="text142">Leadott dolgozat jóváhagyása</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g150">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 303 200 C 303 190.6111584 380.230872 183 475.5 183 C 570.769128 183 648 190.6111584 648 200 C 648 209.3888416 570.769128 217 475.5 217 C 380.230872 217 303 209.3888416 303 200 Z"
+         opacity="0.2"
+         id="path148" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g154">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 296 193 C 296 183.6111584 373.230872 176 468.5 176 C 563.769128 176 641 183.6111584 641 193 C 641 202.3888416 563.769128 210 468.5 210 C 373.230872 210 296 202.3888416 296 193 Z"
+         id="path152" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g158">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 296 193 C 296 183.6111584 373.230872 176 468.5 176 C 563.769128 176 641 183.6111584 641 193 C 641 202.3888416 563.769128 210 468.5 210 C 373.230872 210 296 202.3888416 296 193 Z"
+         stroke-miterlimit="10"
+         id="path156" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g166">
+      <g
+         id="g164">
+        <path
+           fill="none"
+           stroke="none"
+           id="path160" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="351.122314453125"
+           y="198.5"
+           id="text162">Leadott dolgozat bírálatra továbbítása</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g170">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 801.0802487571023 281.68 C 801.0802487571023 276.886167936 804.9660910820477 273 809.759521484375 273 C 814.5529518867023 273 818.4387942116477 276.886167936 818.4387942116477 281.68 C 818.4387942116477 286.473832064 814.5529518867023 290.36 809.759521484375 290.36 C 804.9660910820477 290.36 801.0802487571023 286.473832064 801.0802487571023 281.68 Z"
+         id="path168" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g174">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 801.0802487571023 281.68 C 801.0802487571023 276.886167936 804.9660910820477 273 809.759521484375 273 C 814.5529518867023 273 818.4387942116477 276.886167936 818.4387942116477 281.68 C 818.4387942116477 286.473832064 814.5529518867023 290.36 809.759521484375 290.36 C 804.9660910820477 290.36 801.0802487571023 286.473832064 801.0802487571023 281.68 Z"
+         stroke-miterlimit="10"
+         id="path172" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g178">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 809.759521484375 290.36 L 809.759521484375 307.64"
+         stroke-miterlimit="10"
+         id="path176" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g182">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 800.5697033025568 296.84 L 818.9493396661932 296.84"
+         stroke-miterlimit="10"
+         id="path180" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g186">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 809.759521484375 307.64 L 796.9958851207386 325"
+         stroke-miterlimit="10"
+         id="path184" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g190">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 809.759521484375 307.64 L 822.5231578480114 325"
+         stroke-miterlimit="10"
+         id="path188" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g198">
+      <g
+         id="g196">
+        <path
+           fill="none"
+           stroke="none"
+           id="path192" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="780.5"
+           y="344"
+           id="text194">Rendszer</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g202">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 220 240 L 372 211"
+         stroke-miterlimit="10"
+         id="path200" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g206">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 327 248 L 220 247"
+         stroke-miterlimit="10"
+         id="path204" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g210">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 383 289 L 220 255"
+         stroke-miterlimit="10"
+         id="path208" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g214">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 375 370 L 213 388"
+         stroke-miterlimit="10"
+         id="path212" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g218">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 367 409 L 213 394"
+         stroke-miterlimit="10"
+         id="path216" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g222">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 775 299 L 520 211"
+         stroke-miterlimit="10"
+         id="path220" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g226">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 775 305 L 565 267"
+         stroke-miterlimit="10"
+         id="path224" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g230">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 536 306 L 775 310"
+         stroke-miterlimit="10"
+         id="path228" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g234">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 540 349 L 775 316"
+         stroke-miterlimit="10"
+         id="path232" />
+    </g>
+    <g
+       transform="translate(-134,-166) scale(1,1)"
+       id="g238">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 516 399 L 775 321"
+         stroke-miterlimit="10"
+         id="path236" />
+    </g>
+  </g>
+</svg>

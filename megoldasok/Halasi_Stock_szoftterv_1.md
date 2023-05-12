@@ -219,7 +219,7 @@ A Szakdolgozat vagy Diplomaterv értékelésére felkért, a munka elkészítés
   17. A **Rendszer** hozzárendeli a **Bíráló**hoz a bírálás feladatát, amennyiben **Tanszéki Kolléga**.
   18. A **Rendszer** törli a feladatok közül a bírálatra továbbítást.
   19. A **Rendszer** megjeleníti a továbbító felületet.
-
+<!---> TODO: frissíteni kell a számozást <--->
 - Extensions (or alternative flows):
   - 5/a. A **Konzulens** másik címzettet választ, a USE CASE a 6. ponttal folytatódik.
   - 8/a. A **Konzulens** módosítást eszközöl az emailen, a USE CASE a 7. ponttól folytatódik.
