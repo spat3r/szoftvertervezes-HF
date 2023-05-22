@@ -51,4 +51,31 @@ kik azok akik a rendszert használni fogják?
     - mekkora adatbázis kell mögé, évente hány dolgozat kerül beadásra.
 
 - Domain Model
-  - 
+
+
+
+# utolso orán elmondottak
+
+
+mire szolgálnak a modellek
+
+
+hogyan definiálják a unified process a lépéseket
+
+
+amit mindenképpen lehet számítani
+	a házi lépéseket mindenképpen használni kell
+	aktivitás diagram usecase leírásból pl.
+
+
+mi a sprint, scrumbacklog, milyen hosszu egy ütem
+random kérdések
+folyamatmodellek
+unified priocess
+incrementális és iterativ fejlesztés
+
+
+
+jövő hét hérfő este 10ig
+teljes dokumentum, strukturált
+a mai nap lesz kijavítva, holnap délig kapják meg az emberek
