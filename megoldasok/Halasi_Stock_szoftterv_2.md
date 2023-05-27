@@ -9,7 +9,7 @@ Feladatunk
 
 ### 1. Feladatrész: USE CASE DIAGRAM
 
-![Use Case Diagram](./../png/ucd.png)
+![Use Case Diagram](../png/ucd.png)
 
 ### 2. Feladatrész: System Sequence Diagram
 
