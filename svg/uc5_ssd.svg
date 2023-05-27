@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -8,10 +9,10 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="660"
-   height="748"
+   width="745.75226"
+   height="517.16602"
    id="svg762"
-   sodipodi:docname="uc5.svg"
+   sodipodi:docname="uc5_ssd.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata766">
@@ -38,1473 +39,1064 @@
      id="namedview764"
      showgrid="false"
      inkscape:zoom="0.82054637"
-     inkscape:cx="156.92402"
-     inkscape:cy="453.59167"
+     inkscape:cx="159.3275"
+     inkscape:cy="300.25406"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg762" />
+     inkscape:current-layer="svg762"
+     inkscape:document-rotation="0"
+     showguides="false" />
   <defs
      id="defs2" />
-  <g
-     id="g1412"
-     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\ssd.png"
+  <path
+     d="M 0.53017139,0.50024705 H 60.530221 V 15.500247 l -10,15 H 0.53017139 Z"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="all"
+     id="path2879"
      inkscape:export-xdpi="96"
-     inkscape:export-ydpi="96">
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png" />
+  <path
+     d="M 745.25224,0.55555705 V 516.666 H 0.56317139 c -0.2537,-172.0552 0.3656,-344.11054 -0.033,-516.16575295 248.24016861,0.12234 496.48130861,0.0553 744.72176861,0.0553 z"
+     fill="none"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="all"
+     id="path2881"
+     sodipodi:nodetypes="ccccc"
+     style="stroke-width:1"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png" />
+  <g
+     transform="translate(0.03017139,-149.99975)"
+     id="g2887"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
+    <switch
+       id="switch2885">
+      <foreignObject
+         pointer-events="none"
+         width="100%"
+         height="100%"
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         style="overflow: visible; text-align: left;">
+        <xhtml:div
+           style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 165px; margin-left: 1px;">
+          <xhtml:div
+             data-drawio-colors="color: rgb(0, 0, 0); "
+             style="box-sizing: border-box; font-size: 0px; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">ssd</xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         x="30"
+         y="169"
+         fill="#000000"
+         font-family="Helvetica"
+         font-size="12px"
+         text-anchor="middle"
+         id="text2883">ssd</text>
+    </switch>
+  </g>
+  <rect
+     x="298.79977"
+     y="51.675369"
+     width="100"
+     height="40"
+     fill="#ffffff"
+     stroke="#000000"
+     pointer-events="all"
+     id="rect2889"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png" />
+  <path
+     d="M 348.41764,91.675377 V 491.294"
+     fill="none"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     stroke-dasharray="3, 3"
+     pointer-events="all"
+     id="path2891"
+     style="stroke-width:1"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png" />
+  <g
+     transform="translate(-521.70023,-178.82463)"
+     id="g2897"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
+    <switch
+       id="switch2895">
+      <foreignObject
+         pointer-events="none"
+         width="100%"
+         height="100%"
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         style="overflow: visible; text-align: left;">
+        <xhtml:div
+           style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 250px; margin-left: 821px;">
+          <xhtml:div
+             data-drawio-colors="color: rgb(0, 0, 0); "
+             style="box-sizing: border-box; font-size: 0px; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">:Rendszer</xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         x="870"
+         y="254"
+         fill="#000000"
+         font-family="Helvetica"
+         font-size="12px"
+         text-anchor="middle"
+         id="text2893">:Rendszer</text>
+    </switch>
+  </g>
+  <rect
+     x="28.79977"
+     y="51.675369"
+     width="100"
+     height="40"
+     fill="#ffffff"
+     stroke="#000000"
+     pointer-events="all"
+     id="rect2899"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png" />
+  <path
+     d="M 78.799801,91.675347 V 492.5678"
+     fill="none"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     stroke-dasharray="3, 3"
+     pointer-events="all"
+     id="path2901"
+     style="stroke-width:0.999997"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png" />
+  <g
+     transform="translate(-521.70023,-178.82463)"
+     id="g2907"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
+    <switch
+       id="switch2905">
+      <foreignObject
+         pointer-events="none"
+         width="100%"
+         height="100%"
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         style="overflow: visible; text-align: left;">
+        <xhtml:div
+           style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 250px; margin-left: 551px;">
+          <xhtml:div
+             data-drawio-colors="color: rgb(0, 0, 0); "
+             style="box-sizing: border-box; font-size: 0px; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">:Konzulens</xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         x="600"
+         y="254"
+         fill="#000000"
+         font-family="Helvetica"
+         font-size="12px"
+         text-anchor="middle"
+         id="text2903">:Konzulens</text>
+    </switch>
+  </g>
+  <path
+     d="M 78.819811,121.67537 H 168.7998 q 10,0 20,0 h 151.38"
+     fill="none"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="stroke"
+     id="path2909"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png" />
+  <path
+     d="m 347.1798,121.67537 -7,3.5 v -7 z"
+     fill="#000000"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="all"
+     id="path2911"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png" />
+  <g
+     transform="translate(-521.70023,-178.82463)"
+     id="g2917"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
+    <switch
+       id="switch2915">
+      <foreignObject
+         pointer-events="none"
+         width="100%"
+         height="100%"
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         style="overflow: visible; text-align: left;">
+        <xhtml:div
+           style="display: flex; align-items: unsafe flex-end; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 297px; margin-left: 735px;">
+          <xhtml:div
+             data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); "
+             style="box-sizing: border-box; font-size: 0px; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">továbbítóFelületKiválasztása()</xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         x="735"
+         y="297"
+         fill="#000000"
+         font-family="Helvetica"
+         font-size="11px"
+         text-anchor="middle"
+         id="text2913"
+         style="font-size:13.3333px">továbbítóFelületKiválasztása()</text>
+    </switch>
+  </g>
+  <path
+     d="m 348.55458,148.76443 h -9.75 q -9.75,0 -19.75,0 h -5 q -5,0 -15,0 H 81.314591"
+     fill="none"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     stroke-dasharray="3, 3"
+     pointer-events="stroke"
+     id="path2919"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png" />
+  <path
+     d="m 89.194591,144.26443 -9,4.5 9,4.5"
+     fill="none"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="all"
+     id="path2921"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png" />
+  <g
+     transform="translate(-521.44543,-200.73557)"
+     id="g2927"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
+    <switch
+       id="switch2925">
+      <foreignObject
+         pointer-events="none"
+         width="100%"
+         height="100%"
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         style="overflow: visible; text-align: left;">
+        <xhtml:div
+           style="display: flex; align-items: unsafe flex-end; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 346px; margin-left: 735px;">
+          <xhtml:div
+             data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); "
+             style="box-sizing: border-box; font-size: 0px; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">továbbítóFelületMegjelenítése()</xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         x="735"
+         y="346"
+         fill="#000000"
+         font-family="Helvetica"
+         font-size="11px"
+         text-anchor="middle"
+         id="text2923"
+         style="font-size:13.3333px">továbbító felület megjelenítése</text>
+    </switch>
+  </g>
+  <path
+     d="M 78.819811,194.2868 H 340.1798"
+     fill="none"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="stroke"
+     id="path2929"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png" />
+  <path
+     d="m 347.1798,194.2868 -7,3.5 v -7 z"
+     fill="#000000"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="all"
+     id="path2931"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png" />
+  <g
+     transform="translate(-521.70023,-186.21321)"
+     id="g2937"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
+    <switch
+       id="switch2935">
+      <foreignObject
+         pointer-events="none"
+         width="100%"
+         height="100%"
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         style="overflow: visible; text-align: left;">
+        <xhtml:div
+           style="display: flex; align-items: unsafe flex-end; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 377px; margin-left: 735px;">
+          <xhtml:div
+             data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); "
+             style="box-sizing: border-box; font-size: 0px; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">dolgozatKiválasztása()</xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         x="735"
+         y="377"
+         fill="#000000"
+         font-family="Helvetica"
+         font-size="11px"
+         text-anchor="middle"
+         id="text2933"
+         style="font-size:13.3333px">dolgozatKiválasztása()</text>
+    </switch>
+  </g>
+  <path
+     d="M 348.55458,219.9556 H 81.314591"
+     fill="none"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     stroke-dasharray="3, 3"
+     pointer-events="stroke"
+     id="path2939"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png" />
+  <path
+     d="m 89.194591,215.4556 -9,4.5 9,4.5"
+     fill="none"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="all"
+     id="path2941"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png" />
+  <g
+     transform="translate(-521.44543,-190.54444)"
+     id="g2947"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
+    <switch
+       id="switch2945">
+      <foreignObject
+         pointer-events="none"
+         width="100%"
+         height="100%"
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         style="overflow: visible; text-align: left;">
+        <xhtml:div
+           style="display: flex; align-items: unsafe flex-end; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 407px; margin-left: 735px;">
+          <xhtml:div
+             data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); "
+             style="box-sizing: border-box; font-size: 0px; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">címzettKitöltése()</xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         x="735"
+         y="407"
+         fill="#000000"
+         font-family="Helvetica"
+         font-size="11px"
+         text-anchor="middle"
+         id="text2943"
+         style="font-size:13.3333px">címzettKitöltése()</text>
+    </switch>
+  </g>
+  <path
+     d="M 78.469811,261.9493 H 340.1798"
+     fill="none"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="stroke"
+     id="path2949"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png" />
+  <path
+     d="m 347.1798,261.9493 -7,3.5 v -7 z"
+     fill="#000000"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="all"
+     id="path2951"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png" />
+  <g
+     transform="translate(-521.70023,-177.55074)"
+     id="g2957"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
+    <switch
+       id="switch2955">
+      <foreignObject
+         pointer-events="none"
+         width="100%"
+         height="100%"
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         style="overflow: visible; text-align: left;">
+        <xhtml:div
+           style="display: flex; align-items: unsafe flex-end; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 436px; margin-left: 734px;">
+          <xhtml:div
+             data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); "
+             style="box-sizing: border-box; font-size: 0px; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">címzettKiválasztása()</xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         x="734"
+         y="436"
+         fill="#000000"
+         font-family="Helvetica"
+         font-size="11px"
+         text-anchor="middle"
+         id="text2953"
+         style="font-size:13.3333px">címzettKiválasztása()</text>
+    </switch>
+  </g>
+  <path
+     d="M 348.2998,288.9493 H 80.699811"
+     fill="none"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     stroke-dasharray="3, 3"
+     pointer-events="stroke"
+     id="path2959"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png" />
+  <path
+     d="m 88.579811,284.4493 -9,4.5 9,4.5"
+     fill="none"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="all"
+     id="path2961"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png" />
+  <g
+     transform="translate(-521.70023,-177.55074)"
+     id="g2967"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
+    <switch
+       id="switch2965">
+      <foreignObject
+         pointer-events="none"
+         width="100%"
+         height="100%"
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         style="overflow: visible; text-align: left;">
+        <xhtml:div
+           style="display: flex; align-items: unsafe flex-end; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 463px; margin-left: 735px;">
+          <xhtml:div
+             data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); "
+             style="box-sizing: border-box; font-size: 0px; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">kitöltöttLevélElőnézetMegjelenítése()</xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         x="735"
+         y="463"
+         fill="#000000"
+         font-family="Helvetica"
+         font-size="11px"
+         text-anchor="middle"
+         id="text2963"><tspan
+           style="font-size:13.3333px"
+           id="tspan3374">kitöltött levéle lőnézet megjelenítése</tspan></text>
+    </switch>
+  </g>
+  <g
+     transform="matrix(1.1725806,0,0,1,-57.999531,-111.41451)"
+     id="g370-7"
+     style="stroke-width:0.923483"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
+    <path
+       fill="none"
+       stroke="#000000"
+       d="M 117,440 H 346"
+       stroke-miterlimit="10"
+       id="path368-0"
+       style="stroke-width:0.882248" />
+  </g>
+  <g
+     transform="matrix(1.1725806,0,0,1,-57.999531,-111.41451)"
+     id="g374"
+     style="stroke-width:0.923483"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
+    <path
+       fill="#000000"
+       stroke="none"
+       d="M 335.83733,444.20952 346,440 335.83733,435.79048"
+       id="path372-5"
+       style="stroke-width:0.882248" />
+  </g>
+  <g
+     transform="matrix(1.1725806,0,0,1,-57.999531,-111.41451)"
+     id="g378-0"
+     style="stroke-width:0.923483"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
+    <path
+       fill="none"
+       stroke="#000000"
+       d="M 335.83733,444.20952 346,440 335.83733,435.79048 v 8.41904"
+       stroke-miterlimit="10"
+       id="path376"
+       style="stroke-width:0.882248" />
+  </g>
+  <g
+     transform="translate(-20.132729,-110.3954)"
+     id="g386-01"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
     <g
-       transform="translate(-38,2)"
-       id="g206">
+       id="g384">
       <path
          fill="none"
-         stroke="#000000"
-         d="M 48,8 H 688 V 736 H 48 V 8"
-         stroke-miterlimit="10"
-         id="path204" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g210">
-      <path
-         fill="#ffffff"
          stroke="none"
-         d="m 48,8 v 22 h 142.45801 l 11,-11 V 8 H 48"
-         id="path208" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g214">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 48,8 v 22 h 142.45801 l 11,-11 V 8 H 48 v 0"
-         stroke-miterlimit="10"
-         id="path212" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g222">
-      <g
-         id="g220">
-        <path
-           fill="none"
-           stroke="none"
-           id="path216"
-           d="" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="normal"
-           text-decoration="none"
-           x="72.72998"
-           y="24"
-           id="text218"
-           style="text-decoration:none;text-decoration-line:none">Bírálatra továbbítás</text>
-      </g>
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g230">
-      <g
-         id="g228">
-        <path
-           fill="none"
-           stroke="none"
-           id="path224"
-           d="" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="bold"
-           text-decoration="none"
-           x="52.279541"
-           y="24"
-           id="text226"
-           style="text-decoration:none;text-decoration-line:none">sd</text>
-      </g>
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g234">
-      <rect
-         fill="#c0c0c0"
-         stroke="none"
-         x="79"
-         y="47"
-         width="89.052734"
-         height="39"
-         opacity="0.2"
-         id="rect232" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g238">
-      <rect
-         fill="#ffffff"
-         stroke="none"
-         x="72"
-         y="40"
-         width="89.052734"
-         height="39"
-         id="rect236" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g242">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 72,40 h 89.05273 V 79 H 72 Z"
-         stroke-miterlimit="10"
-         id="path240" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g250">
-      <g
-         id="g248">
-        <path
-           fill="none"
-           stroke="none"
-           id="path244"
-           d="" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="bold"
-           text-decoration="none"
-           x="81.5"
-           y="58"
-           id="text246"
-           style="text-decoration:none;text-decoration-line:none">:Konzulens</text>
-      </g>
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g254">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 117.5,80 V 678"
-         stroke-miterlimit="10"
-         stroke-dasharray="3"
-         id="path252" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g258">
-      <rect
-         fill="#c0c0c0"
-         stroke="none"
-         x="319"
-         y="47"
-         width="81.848145"
-         height="39"
-         opacity="0.2"
-         id="rect256" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g262">
-      <rect
-         fill="#ffffff"
-         stroke="none"
-         x="312"
-         y="40"
-         width="81.848145"
-         height="39"
-         id="rect260" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g266">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 312,40 h 81.84814 V 79 H 312 Z"
-         stroke-miterlimit="10"
-         id="path264" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g274">
-      <g
-         id="g272">
-        <path
-           fill="none"
-           stroke="none"
-           id="path268"
-           d="" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="bold"
-           text-decoration="none"
-           x="321.5"
-           y="58"
-           id="text270"
-           style="text-decoration:none;text-decoration-line:none">:Rendszer</text>
-      </g>
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g278">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 353.5,80 V 678"
-         stroke-miterlimit="10"
-         stroke-dasharray="3"
-         id="path276" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g290">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 117,104 H 346"
-         stroke-miterlimit="10"
-         id="path288" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g294">
-      <path
+         id="path380"
+         d="" />
+      <text
          fill="#000000"
          stroke="none"
-         d="M 335.83733,108.20952 346,104 335.83733,99.790482"
-         id="path292" />
+         font-family="Arial"
+         font-size="13px"
+         font-style="normal"
+         font-weight="normal"
+         text-decoration="none"
+         x="195.37134"
+         y="435"
+         id="text382"
+         style="font-size:13.3333px;text-decoration:none;text-decoration-line:none">levélKüldés()</text>
     </g>
+  </g>
+  <g
+     transform="matrix(1.1705943,0,0,1,-57.417231,-88.229685)"
+     id="g398"
+     style="stroke-width:0.924266"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
+    <path
+       fill="none"
+       stroke="#000000"
+       d="M 346,448 H 117"
+       stroke-miterlimit="10"
+       stroke-dasharray="2.7728"
+       id="path396-5"
+       style="stroke-width:0.854267" />
+  </g>
+  <g
+     transform="matrix(1.1705943,0,0,1,-57.417231,-88.229685)"
+     id="g402-9"
+     style="stroke-width:0.924266"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
+    <path
+       fill="none"
+       stroke="#000000"
+       d="M 127.16267,443.79048 117,448 l 10.16267,4.20952"
+       stroke-miterlimit="10"
+       id="path400"
+       style="stroke-width:0.854267" />
+  </g>
+  <g
+     transform="translate(-6.1199286,-109.12151)"
+     id="g410-1"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
     <g
-       transform="translate(-38,2)"
-       id="g298">
+       id="g408">
       <path
          fill="none"
-         stroke="#000000"
-         d="M 335.83733,108.20952 346,104 335.83733,99.790482 v 8.419038"
-         stroke-miterlimit="10"
-         id="path296" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g306">
-      <g
-         id="g304">
-        <path
-           fill="none"
-           stroke="none"
-           id="path300"
-           d="" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="normal"
-           text-decoration="none"
-           x="134.5"
-           y="99"
-           id="text302"
-           style="text-decoration:none;text-decoration-line:none">1 : továbbítóFelületKiválasztása()</text>
-      </g>
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g310">
-      <rect
-         fill="#ffffff"
          stroke="none"
-         x="346"
-         y="104"
-         width="13"
-         height="28"
-         id="rect308" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g314">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 346,104 h 13 v 28 h -13 z"
-         stroke-miterlimit="10"
-         id="path312" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g318">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 346,120 H 117"
-         stroke-miterlimit="10"
-         stroke-dasharray="3"
-         id="path316" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g322">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 127.16267,115.79048 117,120 l 10.16267,4.20952"
-         stroke-miterlimit="10"
-         id="path320" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g330">
-      <g
-         id="g328">
-        <path
-           fill="none"
-           stroke="none"
-           id="path324"
-           d="" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="normal"
-           text-decoration="none"
-           x="132.5"
-           y="135"
-           id="text326"
-           style="text-decoration:none;text-decoration-line:none">2 : továbbító-felület megjelenítése</text>
-      </g>
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g334">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 117,160 H 346"
-         stroke-miterlimit="10"
-         id="path332" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g338">
-      <path
+         id="path404-4"
+         d="" />
+      <text
          fill="#000000"
          stroke="none"
-         d="M 335.83733,164.20952 346,160 335.83733,155.79048"
-         id="path336" />
+         font-family="Arial"
+         font-size="13px"
+         font-style="normal"
+         font-weight="normal"
+         text-decoration="none"
+         x="124.5"
+         y="463"
+         id="text406"
+         style="font-size:13.3333px;text-decoration:none;text-decoration-line:none">küldés megerősítés felajánlása</text>
     </g>
+  </g>
+  <g
+     transform="matrix(1.1735236,0,0,1,-58.123831,-95.618265)"
+     id="g414-7"
+     style="stroke-width:0.923111"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
+    <path
+       fill="none"
+       stroke="#000000"
+       d="M 117,496 H 346"
+       stroke-miterlimit="10"
+       id="path412-8"
+       style="stroke-width:0.852135" />
+  </g>
+  <g
+     transform="matrix(1.1735236,0,0,1,-58.123831,-95.618265)"
+     id="g418"
+     style="stroke-width:0.923111"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
+    <path
+       fill="#000000"
+       stroke="none"
+       d="M 335.83733,500.20952 346,496 335.83733,491.79048"
+       id="path416-4"
+       style="stroke-width:0.852135" />
+  </g>
+  <g
+     transform="matrix(1.1735236,0,0,1,-58.123831,-95.618265)"
+     id="g422-0"
+     style="stroke-width:0.923111"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
+    <path
+       fill="none"
+       stroke="#000000"
+       d="M 335.83733,500.20952 346,496 335.83733,491.79048 v 8.41904"
+       stroke-miterlimit="10"
+       id="path420"
+       style="stroke-width:0.852135" />
+  </g>
+  <g
+     transform="translate(1.7781714,-95.108705)"
+     id="g430-5"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
     <g
-       transform="translate(-38,2)"
-       id="g342">
+       id="g428">
       <path
          fill="none"
-         stroke="#000000"
-         d="M 335.83733,164.20952 346,160 335.83733,155.79048 v 8.41904"
-         stroke-miterlimit="10"
-         id="path340" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g350">
-      <g
-         id="g348">
-        <path
-           fill="none"
-           stroke="none"
-           id="path344"
-           d="" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="normal"
-           text-decoration="none"
-           x="166.5"
-           y="155"
-           id="text346"
-           style="text-decoration:none;text-decoration-line:none">3 : hallgatóKiválsztása</text>
-      </g>
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g354">
-      <rect
-         fill="#ffffff"
          stroke="none"
-         x="346"
-         y="160"
-         width="13"
-         height="62"
-         id="rect352" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g358">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 346,160 h 13 v 62 h -13 z"
-         stroke-miterlimit="10"
-         id="path356" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g362">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 117,184 H 353"
-         stroke-miterlimit="10"
-         id="path360" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g366">
-      <path
+         id="path424"
+         d="" />
+      <text
          fill="#000000"
          stroke="none"
-         d="M 342.83733,188.20952 353,184 342.83733,179.79048"
-         id="path364" />
+         font-family="Arial"
+         font-size="13px"
+         font-style="normal"
+         font-weight="normal"
+         text-decoration="none"
+         x="159.13135"
+         y="491"
+         id="text426"
+         style="font-size:13.3333px;text-decoration:none;text-decoration-line:none">küldésMegerősítés()</text>
     </g>
+  </g>
+  <g
+     transform="matrix(1.1694793,0,0,1,-56.522431,-83.643685)"
+     id="g462-2"
+     style="stroke-width:0.924706"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
+    <path
+       fill="none"
+       stroke="#000000"
+       d="M 346,512 H 117"
+       stroke-miterlimit="10"
+       stroke-dasharray="2.77412"
+       id="path460-7"
+       style="stroke-width:0.855081" />
+  </g>
+  <g
+     transform="matrix(1.1694793,0,0,1,-56.522431,-83.643685)"
+     id="g466-4"
+     style="stroke-width:0.924706"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
+    <path
+       fill="none"
+       stroke="#000000"
+       d="M 127.16267,507.79048 117,512 l 10.16267,4.20952"
+       stroke-miterlimit="10"
+       id="path464-4"
+       style="stroke-width:0.855081" />
+  </g>
+  <g
+     transform="translate(-2.8078286,-87.465365)"
+     id="g474"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
     <g
-       transform="translate(-38,2)"
-       id="g370">
+       id="g472">
       <path
          fill="none"
-         stroke="#000000"
-         d="M 342.83733,188.20952 353,184 342.83733,179.79048 v 8.41904"
-         stroke-miterlimit="10"
-         id="path368" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g378">
-      <g
-         id="g376">
-        <path
-           fill="none"
-           stroke="none"
-           id="path372"
-           d="" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="normal"
-           text-decoration="none"
-           x="162.5"
-           y="179"
-           id="text374"
-           style="text-decoration:none;text-decoration-line:none">4 : dolgozatKiválasztása()</text>
-      </g>
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g382">
-      <rect
-         fill="#ffffff"
          stroke="none"
-         x="353"
-         y="184"
-         width="13"
-         height="28"
-         id="rect380" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g386">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 353,184 h 13 v 28 h -13 z"
-         stroke-miterlimit="10"
-         id="path384" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g390">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 353,192 H 117"
-         stroke-miterlimit="10"
-         stroke-dasharray="3"
-         id="path388" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g394">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 127.16267,187.79048 117,192 l 10.16267,4.20952"
-         stroke-miterlimit="10"
-         id="path392" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g402">
-      <g
-         id="g400">
-        <path
-           fill="none"
-           stroke="none"
-           id="path396"
-           d="" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="normal"
-           text-decoration="none"
-           x="187.5"
-           y="207"
-           id="text398"
-           style="text-decoration:none;text-decoration-line:none">5 : Bíráló autofill</text>
-      </g>
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g406">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 117,232 H 346"
-         stroke-miterlimit="10"
-         id="path404" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g410">
-      <path
+         id="path468-4"
+         d="" />
+      <text
          fill="#000000"
          stroke="none"
-         d="M 335.83733,236.20952 346,232 335.83733,227.79048"
-         id="path408" />
+         font-family="Arial"
+         font-size="13px"
+         font-style="normal"
+         font-weight="normal"
+         text-decoration="none"
+         x="143.65291"
+         y="508.65594"
+         id="text470"
+         style="font-size:13.3333px;text-decoration:none;text-decoration-line:none">sikeressség visszaigazolása</text>
     </g>
+  </g>
+  <g
+     transform="matrix(1.1694793,0,0,1,-56.777231,-170.77788)"
+     id="g554"
+     style="stroke-width:0.924706"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
+    <path
+       fill="none"
+       stroke="#000000"
+       d="M 346,648 H 117"
+       stroke-miterlimit="10"
+       stroke-dasharray="2.77412"
+       id="path552-4"
+       style="stroke-width:0.855081" />
+  </g>
+  <g
+     transform="matrix(1.1694793,0,0,1,-56.777231,-170.77788)"
+     id="g558-2"
+     style="stroke-width:0.924706"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
+    <path
+       fill="none"
+       stroke="#000000"
+       d="M 127.16267,643.79048 117,648 l 10.16267,4.20952"
+       stroke-miterlimit="10"
+       id="path556"
+       style="stroke-width:0.855081" />
+  </g>
+  <g
+     transform="translate(11.204971,-190.39582)"
+     id="g566-3"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
     <g
-       transform="translate(-38,2)"
-       id="g414">
+       id="g564">
       <path
          fill="none"
-         stroke="#000000"
-         d="M 335.83733,236.20952 346,232 335.83733,227.79048 v 8.41904"
-         stroke-miterlimit="10"
-         id="path412" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g422">
-      <g
-         id="g420">
-        <path
-           fill="none"
-           stroke="none"
-           id="path416"
-           d="" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="normal"
-           text-decoration="none"
-           x="160.5"
-           y="227"
-           id="text418"
-           style="text-decoration:none;text-decoration-line:none">6 : címzettKiválasztása()</text>
-      </g>
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g426">
-      <rect
-         fill="#ffffff"
          stroke="none"
-         x="346"
-         y="232"
-         width="13"
-         height="168"
-         id="rect424" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g430">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 346,232 h 13 v 168 h -13 z"
-         stroke-miterlimit="10"
-         id="path428" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g434">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 359,240 h 30 v 20 h -23"
-         stroke-miterlimit="10"
-         id="path432" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g438">
-      <path
+         id="path560-5"
+         d="" />
+      <text
          fill="#000000"
          stroke="none"
-         d="M 376.16267,255.79048 366,260 l 10.16267,4.20952"
-         id="path436" />
+         font-family="Arial"
+         font-size="13px"
+         font-style="normal"
+         font-weight="normal"
+         text-decoration="none"
+         x="128.5"
+         y="663"
+         id="text562"
+         style="text-decoration:none;text-decoration-line:none">továbbító-felület megjelenítése</text>
     </g>
+  </g>
+  <rect
+     x="478.16766"
+     y="51.442337"
+     width="100"
+     height="40"
+     fill="#ffffff"
+     stroke="#000000"
+     pointer-events="all"
+     id="rect2889-8"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png" />
+  <g
+     transform="translate(-342.33243,-179.05768)"
+     id="g2897-4"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
+    <switch
+       id="switch2895-0">
+      <foreignObject
+         pointer-events="none"
+         width="100%"
+         height="100%"
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         style="overflow: visible; text-align: left;">
+        <xhtml:div
+           style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 250px; margin-left: 821px;">
+          <xhtml:div
+             data-drawio-colors="color: rgb(0, 0, 0); "
+             style="box-sizing: border-box; font-size: 0px; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">:Rendszer</xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         x="870"
+         y="254"
+         fill="#000000"
+         font-family="Helvetica"
+         font-size="12px"
+         text-anchor="middle"
+         id="text2893-7">:levélKüldő</text>
+    </switch>
+  </g>
+  <rect
+     x="619.48816"
+     y="51.231277"
+     width="100"
+     height="40"
+     fill="#ffffff"
+     stroke="#000000"
+     pointer-events="all"
+     id="rect2889-2"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png" />
+  <g
+     transform="translate(-201.01184,-179.26875)"
+     id="g2897-3"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
+    <switch
+       id="switch2895-2">
+      <foreignObject
+         pointer-events="none"
+         width="100%"
+         height="100%"
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         style="overflow: visible; text-align: left;">
+        <xhtml:div
+           style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 250px; margin-left: 821px;">
+          <xhtml:div
+             data-drawio-colors="color: rgb(0, 0, 0); "
+             style="box-sizing: border-box; font-size: 0px; text-align: center;">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">:Rendszer</xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         x="870"
+         y="254"
+         fill="#000000"
+         font-family="Helvetica"
+         font-size="12px"
+         text-anchor="middle"
+         id="text2893-3">:Iktató</text>
+    </switch>
+  </g>
+  <path
+     d="M 526.5515,92.354457 V 355.9214"
+     fill="none"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     stroke-dasharray="3, 3"
+     pointer-events="all"
+     id="path2891-8"
+     style="stroke-width:0.999997"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png" />
+  <path
+     d="M 669.61184,91.932317 V 491.5509"
+     fill="none"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     stroke-dasharray="3, 3"
+     pointer-events="all"
+     id="path2891-1"
+     style="stroke-width:1"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png" />
+  <g
+     transform="matrix(0.78479638,0,0,-0.66928992,254.64831,641.88505)"
+     id="g370-8"
+     style="stroke-width:1.3798"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
+    <path
+       fill="none"
+       stroke="#000000"
+       d="M 117,440 H 346"
+       stroke-miterlimit="10"
+       id="path368-3"
+       style="stroke-width:1.31818" />
+  </g>
+  <g
+     transform="matrix(1.1725806,0,0,1,120.47497,-92.602525)"
+     id="g374-7"
+     style="stroke-width:0.923483"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
+    <path
+       fill="#000000"
+       stroke="none"
+       d="M 335.83733,444.20952 346,440 335.83733,435.79048"
+       id="path372-2"
+       style="stroke-width:0.882248" />
+  </g>
+  <g
+     transform="translate(165.71402,-92.980945)"
+     id="g386-0"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
     <g
-       transform="translate(-38,2)"
-       id="g442">
+       id="g384-9">
       <path
          fill="none"
-         stroke="#000000"
-         d="M 376.16267,255.79048 366,260 l 10.16267,4.20952 v -8.41904"
-         stroke-miterlimit="10"
-         id="path440" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g450">
-      <g
-         id="g448">
-        <path
-           fill="none"
-           stroke="none"
-           id="path444"
-           d="" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="normal"
-           text-decoration="none"
-           x="391.5"
-           y="251"
-           id="text446"
-           style="text-decoration:none;text-decoration-line:none">7 : szövegkitöltés(szöveg)</text>
-      </g>
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g454">
-      <rect
-         fill="#ffffff"
          stroke="none"
-         x="353"
-         y="260"
-         width="13"
-         height="28"
-         id="rect452" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g458">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 353,260 h 13 v 28 h -13 z"
-         stroke-miterlimit="10"
-         id="path456" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g462">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 366,272 h 30 v 20 h -30"
-         stroke-miterlimit="10"
-         id="path460" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g466">
-      <path
+         id="path380-1"
+         d="" />
+      <text
          fill="#000000"
          stroke="none"
-         d="M 376.16267,287.79048 366,292 l 10.16267,4.20952"
-         id="path464" />
+         font-family="Arial"
+         font-size="13px"
+         font-style="normal"
+         font-weight="normal"
+         text-decoration="none"
+         x="195.37134"
+         y="435"
+         id="text382-6"
+         style="font-size:13.3333px;text-decoration:none;text-decoration-line:none">levélKüldés(címzett, docs)</text>
     </g>
+  </g>
+  <g
+     transform="matrix(1.3989347,0,0,1.1930393,184.20495,-145.16514)"
+     id="g370-8-2"
+     style="stroke-width:0.774062"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
+    <path
+       fill="none"
+       stroke="#000000"
+       d="M 117,440 H 346"
+       stroke-miterlimit="10"
+       id="path368-3-4"
+       style="stroke-width:0.739493" />
+  </g>
+  <g
+     transform="matrix(1.1725806,0,0,1,264.05214,-60.227875)"
+     id="g374-7-7"
+     style="stroke-width:0.923483"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
+    <path
+       fill="#000000"
+       stroke="none"
+       d="M 335.83733,444.20952 346,440 335.83733,435.79048"
+       id="path372-2-5"
+       style="stroke-width:0.882248" />
+  </g>
+  <g
+     transform="translate(159.48149,-62.644505)"
+     id="g386-0-5"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ssd.png">
     <g
-       transform="translate(-38,2)"
-       id="g470">
+       id="g384-9-9">
       <path
          fill="none"
-         stroke="#000000"
-         d="M 376.16267,287.79048 366,292 l 10.16267,4.20952 v -8.41904"
-         stroke-miterlimit="10"
-         id="path468" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g478">
-      <g
-         id="g476">
-        <path
-           fill="none"
-           stroke="none"
-           id="path472"
-           d="" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="normal"
-           text-decoration="none"
-           x="400.6709"
-           y="286"
-           id="text474"
-           style="text-decoration:none;text-decoration-line:none">8 : dokumentumCsatolása(témakiírás)</text>
-      </g>
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g482">
-      <rect
-         fill="#ffffff"
          stroke="none"
-         x="353"
-         y="292"
-         width="13"
-         height="28"
-         id="rect480" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g486">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 353,292 h 13 v 28 h -13 z"
-         stroke-miterlimit="10"
-         id="path484" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g490">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 366,304 h 30 v 20 h -30"
-         stroke-miterlimit="10"
-         id="path488" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g494">
-      <path
+         id="path380-1-8"
+         d="" />
+      <text
          fill="#000000"
          stroke="none"
-         d="M 376.16267,319.79048 366,324 l 10.16267,4.20952"
-         id="path492" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g498">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 376.16267,319.79048 366,324 l 10.16267,4.20952 v -8.41904"
-         stroke-miterlimit="10"
-         id="path496" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g506">
-      <g
-         id="g504">
-        <path
-           fill="none"
-           stroke="none"
-           id="path500"
-           d="" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="normal"
-           text-decoration="none"
-           x="402.9209"
-           y="323"
-           id="text502"
-           style="text-decoration:none;text-decoration-line:none">9 : dokumentumCsatolása(dolgozat)</text>
-      </g>
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g510">
-      <rect
-         fill="#ffffff"
-         stroke="none"
-         x="353"
-         y="324"
-         width="13"
-         height="28"
-         id="rect508" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g514">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 353,324 h 13 v 28 h -13 z"
-         stroke-miterlimit="10"
-         id="path512" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g518">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 366,336 h 30 v 20 h -30"
-         stroke-miterlimit="10"
-         id="path516" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g522">
-      <path
-         fill="#000000"
-         stroke="none"
-         d="M 376.16267,351.79048 366,356 l 10.16267,4.20952"
-         id="path520" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g526">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 376.16267,351.79048 366,356 l 10.16267,4.20952 v -8.41904"
-         stroke-miterlimit="10"
-         id="path524" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g534">
-      <g
-         id="g532">
-        <path
-           fill="none"
-           stroke="none"
-           id="path528"
-           d="" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="normal"
-           text-decoration="none"
-           x="394.5"
-           y="351.5"
-           id="text530"
-           style="text-decoration:none;text-decoration-line:none">10 : dokumentumCsatolása(bírálatiŰrlap)</text>
-      </g>
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g538">
-      <rect
-         fill="#ffffff"
-         stroke="none"
-         x="353"
-         y="356"
-         width="13"
-         height="28"
-         id="rect536" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g542">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 353,356 h 13 v 28 h -13 z"
-         stroke-miterlimit="10"
-         id="path540" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g546">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 346,392 H 117"
-         stroke-miterlimit="10"
-         stroke-dasharray="3"
-         id="path544" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g550">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 127.16267,387.79048 117,392 l 10.16267,4.20952"
-         stroke-miterlimit="10"
-         id="path548" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g558">
-      <g
-         id="g556">
-        <path
-           fill="none"
-           stroke="none"
-           id="path552"
-           d="" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="normal"
-           text-decoration="none"
-           x="130.98242"
-           y="411"
-           id="text554"
-           style="text-decoration:none;text-decoration-line:none">11 : megjeleníti a levél előnézetét</text>
-      </g>
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g562">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 117,440 H 346"
-         stroke-miterlimit="10"
-         id="path560" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g566">
-      <path
-         fill="#000000"
-         stroke="none"
-         d="M 335.83733,444.20952 346,440 335.83733,435.79048"
-         id="path564" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g570">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 335.83733,444.20952 346,440 335.83733,435.79048 v 8.41904"
-         stroke-miterlimit="10"
-         id="path568" />
-    </g>
-    <g
-       transform="translate(-37.999865,2)"
-       id="g578">
-      <g
-         id="g576">
-        <path
-           fill="none"
-           stroke="none"
-           id="path572"
-           d="" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="normal"
-           text-decoration="none"
-           x="195.37134"
-           y="435"
-           id="text574"
-           style="text-decoration:none;text-decoration-line:none">12 : küldés()</text>
-      </g>
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g582">
-      <rect
-         fill="#ffffff"
-         stroke="none"
-         x="346"
-         y="440"
-         width="13"
-         height="28"
-         id="rect580" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g586">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 346,440 h 13 v 28 h -13 z"
-         stroke-miterlimit="10"
-         id="path584" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g590">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 346,448 H 117"
-         stroke-miterlimit="10"
-         stroke-dasharray="3"
-         id="path588" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g594">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 127.16267,443.79048 117,448 l 10.16267,4.20952"
-         stroke-miterlimit="10"
-         id="path592" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g602">
-      <g
-         id="g600">
-        <path
-           fill="none"
-           stroke="none"
-           id="path596"
-           d="" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="normal"
-           text-decoration="none"
-           x="124.5"
-           y="463"
-           id="text598"
-           style="text-decoration:none;text-decoration-line:none">13 : küldés megerősítése felajánlása</text>
-      </g>
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g606">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 117,496 H 346"
-         stroke-miterlimit="10"
-         id="path604" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g610">
-      <path
-         fill="#000000"
-         stroke="none"
-         d="M 335.83733,500.20952 346,496 335.83733,491.79048"
-         id="path608" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g614">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 335.83733,500.20952 346,496 335.83733,491.79048 v 8.41904"
-         stroke-miterlimit="10"
-         id="path612" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g622">
-      <g
-         id="g620">
-        <path
-           fill="none"
-           stroke="none"
-           id="path616"
-           d="" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="normal"
-           text-decoration="none"
-           x="159.13135"
-           y="491"
-           id="text618"
-           style="text-decoration:none;text-decoration-line:none">14 : küldésMegerősítés()</text>
-      </g>
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g626">
-      <rect
-         fill="#ffffff"
-         stroke="none"
-         x="346"
-         y="496"
-         width="13"
-         height="155"
-         id="rect624" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g630">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 346,496 h 13 v 155 h -13 z"
-         stroke-miterlimit="10"
-         id="path628" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g634">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 359,504 H 583"
-         stroke-miterlimit="10"
-         id="path632" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g650">
-      <g
-         id="g648">
-        <path
-           fill="none"
-           stroke="none"
-           id="path644"
-           d="" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="normal"
-           text-decoration="none"
-           x="383.5"
-           y="498"
-           id="text646"
-           style="text-decoration:none;text-decoration-line:none">15 : üzenetTovábbítása(levél)</text>
-      </g>
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g654">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 346,512 H 117"
-         stroke-miterlimit="10"
-         stroke-dasharray="3"
-         id="path652" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g658">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 127.16267,507.79048 117,512 l 10.16267,4.20952"
-         stroke-miterlimit="10"
-         id="path656" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g666">
-      <g
-         id="g664">
-        <path
-           fill="none"
-           stroke="none"
-           id="path660"
-           d="" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="normal"
-           text-decoration="none"
-           x="135.5"
-           y="527"
-           id="text662"
-           style="text-decoration:none;text-decoration-line:none">16 : sikeressség visszaigazolása</text>
-      </g>
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g670">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 359,528 H 584"
-         stroke-miterlimit="10"
-         id="path668" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g686">
-      <g
-         id="g684">
-        <path
-           fill="none"
-           stroke="none"
-           id="path680"
-           d="" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="normal"
-           text-decoration="none"
-           x="412.5"
-           y="523"
-           id="text682"
-           style="text-decoration:none;text-decoration-line:none">17 : küldésIktatása()</text>
-      </g>
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g690">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 359,536 h 30 v 20 h -23"
-         stroke-miterlimit="10"
-         id="path688" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g694">
-      <path
-         fill="#000000"
-         stroke="none"
-         d="M 376.16267,551.79048 366,556 l 10.16267,4.20952"
-         id="path692" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g698">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 376.16267,551.79048 366,556 l 10.16267,4.20952 v -8.41904"
-         stroke-miterlimit="10"
-         id="path696" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g706">
-      <g
-         id="g704">
-        <path
-           fill="none"
-           stroke="none"
-           id="path700"
-           d="" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="normal"
-           text-decoration="none"
-           x="391.5"
-           y="550"
-           id="text702"
-           style="text-decoration:none;text-decoration-line:none">18 : feladatKiírása(bíráló,&quot;bírálás&quot;)</text>
-      </g>
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g710">
-      <rect
-         fill="#ffffff"
-         stroke="none"
-         x="353"
-         y="556"
-         width="13"
-         height="28"
-         id="rect708" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g714">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 353,556 h 13 v 28 h -13 z"
-         stroke-miterlimit="10"
-         id="path712" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g718">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 359,592 h 30 v 20 h -23"
-         stroke-miterlimit="10"
-         id="path716" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g722">
-      <path
-         fill="#000000"
-         stroke="none"
-         d="M 376.16267,607.79048 366,612 l 10.16267,4.20952"
-         id="path720" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g726">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 376.16267,607.79048 366,612 l 10.16267,4.20952 v -8.41904"
-         stroke-miterlimit="10"
-         id="path724" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g734">
-      <g
-         id="g732">
-        <path
-           fill="none"
-           stroke="none"
-           id="path728"
-           d="" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="normal"
-           text-decoration="none"
-           x="390.5"
-           y="606"
-           id="text730"
-           style="text-decoration:none;text-decoration-line:none">19 : feladatTörlése(dolgozat,&quot;bírálatratovábbítás&quot;)</text>
-      </g>
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g738">
-      <rect
-         fill="#ffffff"
-         stroke="none"
-         x="353"
-         y="612"
-         width="13"
-         height="28"
-         id="rect736" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g742">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 353,612 h 13 v 28 h -13 z"
-         stroke-miterlimit="10"
-         id="path740" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g746">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 346,648 H 117"
-         stroke-miterlimit="10"
-         stroke-dasharray="3"
-         id="path744" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g750">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 127.16267,643.79048 117,648 l 10.16267,4.20952"
-         stroke-miterlimit="10"
-         id="path748" />
-    </g>
-    <g
-       transform="translate(-38,2)"
-       id="g758">
-      <g
-         id="g756">
-        <path
-           fill="none"
-           stroke="none"
-           id="path752"
-           d="" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="normal"
-           text-decoration="none"
-           x="128.5"
-           y="663"
-           id="text754"
-           style="text-decoration:none;text-decoration-line:none">20 : továbbító-felület megjelenítése</text>
-      </g>
+         font-family="Arial"
+         font-size="13px"
+         font-style="normal"
+         font-weight="normal"
+         text-decoration="none"
+         x="235.11676"
+         y="436.0191"
+         id="text382-6-4"
+         style="font-size:13.3333px;text-decoration:none;text-decoration-line:none">iktatás(levél)</text>
     </g>
   </g>
 </svg>
