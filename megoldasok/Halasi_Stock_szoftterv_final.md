@@ -1,7 +1,7 @@
 
-| Első leadás         | ## Szoftvertervezés Házi Feladat | 2023.05.08. |
-| :---                |               :----:             | :---        |
-| Stock András        | Halasi Péter András              | **Team: HS**|
+| Harmadik leadás     | Szoftvertervezés Házi Feladat | 2023.05.29. |
+| :---                |            :----:             | :---        |
+| Stock András        | Halasi Péter András           | **Team: HS**|
 
 Feladatunk
  : 11. Két féléves diplomaterv első féléve után a beadott dolgozat kiküldése tanszéki kollégák/bírálók részére (konzulens).
@@ -12,65 +12,64 @@ Feladatunk
 ## Aktorok
 
 
-###### Hallgató
+#### Hallgató
 A **Hallgató** olyan személy, aki az Egyetemmel hallgatói jogviszonyban van és  teljesítette a Szakdolgozat-készítés vagy Diplomatervezés tárgyakhoz tartozó mérföldköveket.
 
 
-###### Tanszéki kolléga
+#### Tanszéki kolléga
 Az Egyetem egy munkatársa.
 
 
-###### Konzulens
+#### Konzulens
 A Hallgató szakmai támogatásáért és segítéséért felelős Tanszéki kolléga. A diplomamunkák elkészítése során a feladatok kiírásáért, konzultásiók megtartásáért felelős. 
 
 
-###### Szakvezető
+#### Szakvezető
 Az Egyetemen a szak vezetéséért és ügyiért felelős munkatárs, a Tanszéki kollégák közül kerül ki.
 
 
-###### Tanszékvezető
+#### Tanszékvezető
 Az Egyetemen a Tanszék vezetéséért és ügyiért felelős munkatárs, a Tanszéki kollégák közül kerül ki.
 
 
-###### Tanszéki ügyintéző
+#### Tanszéki ügyintéző
 A Tanszéki ügyekért felelős Tanszéki kolléga
 
 
 ## Másodlagos Aktorok
 
-###### Címtár
+#### Címtár
 Az Egyetem belső rendszere, amely a Hallgatók bejelentkeztetésére szolgál, illetve tárolja a legfontosabb adataikat.
 
 
 
-
+<!-- word newPage -->
 ## Fogalmak
 
 
-###### Ügy
+#### Ügy
 Iktatott, bármilyen üzleti cselekmény. Az Egyetemen végbemenő, hivatalos cselekmények és tevékenységek.
 
-###### Diplomaterv Kiírás / Témakiírás
+#### Diplomaterv Kiírás / Témakiírás
 Természetes nyelven megfogalmatzott dokumentum. Rögzíti a hallgató Diplomatervezés vagy Szakdolgozat-készítés tárgy keretében elkészítendő feladatával kapcsolatban több információt.
 - Egy rövid leírását a témával kapcsolatban.
 - Dolgozat elkészítése során elvégzendő feladatokat.
 - A Konzulens és a Tanszék vagy Szakvezető hitelesítét.
 
 
-###### Bírálat
+#### Bírálat
 Természetes nyelven megfogalmatzott dokumentum. Rögzíti a hallgató Diplomatervezés vagy Szakdolgozat-készítés tárgy keretében elkészített feladatának szakmai szempontok szerinti értékelését.
 - A Bírálatnak értékelnie kell, hogy a kiírásban megadott feladatok milyen mértékben és minőségben készültek el.
 - A Bírálatot a Bírálati sablon alapján szükséges elkészíteni.
 - A Bírálatnak szakmailag kell értékelnie a dolgozatban vázolt eredményeket.
 - A Bírálatnak formai szempontból kell értékelni a dolgozat összeállítását.
 
-###### Bíráló
+#### Bíráló
 A Szakdolgozat vagy Diplomaterv értékelésére felkért, a munka elkészítésétől jól elhatárolható személy. A bírálónak legalább olyan szintű ISCED besorolású végzettséggel kell rendelkezzen, mint amit az általa bírált mű sikeres megvédésével el lehet érni.
 
 
+<!-- word newPage -->
 ## USE CASE-ek
-
-### USE CASE DIAGRAM
 
 #### USE CASE [UC1]: Dolgozat feltöltése
 - Aktorok: Hallgató
@@ -129,8 +128,9 @@ A Szakdolgozat vagy Diplomaterv értékelésére felkért, a munka elkészítés
   - Látja e a **Szakvezető** az iktatások alapján az iktatás tárgyát?
   - Megkapják-e az értesítést minden iktatás során az ügyben érintetteket az iktató aktor által?  
   - Az érintett aktorok számára legyen elérhető felület ahol az értesítéseiket látják.
-  > :memo:: Legyen menthető a rendszerben egy átmeneti állapot a végleges leadás előtt. (A **Rendszer** ne adja le automatikusan a dolgozatot. Kelljen a hallgatónak azzal hitelesíteni-e, hogy rányom a leadás gombra)
-  > :memo:: Dipterv1 leadása után nincs zv vagy dipterv 2 után, tehát nem vonatkozik ide a Követelmények 12 §
+  
+  <!-- > :memo:: Legyen menthető a rendszerben egy átmeneti állapot a végleges leadás előtt. (A **Rendszer** ne adja le automatikusan a dolgozatot. Kelljen a hallgatónak azzal hitelesíteni-e, hogy rányom a leadás gombra)
+  > :memo:: Dipterv1 leadása után nincs zv vagy dipterv 2 után, tehát nem vonatkozik ide a Követelmények 12 § -->
 
 
 
@@ -264,20 +264,43 @@ A Szakdolgozat vagy Diplomaterv értékelésére felkért, a munka elkészítés
   - Mi történik abban az esetben, ha a bíráló levelezőrendszere visszadobja a rendszerüzenetet, mert olyan (céges) levelező rendszerbe ütközik ami nem engedi be a kívülről érkező üzeneteket?
   - A továbbító felület milyen (beépített) email kliens legyen?
 
-
+<!-- word newPage -->
 # Szoftvertervezés házi feladat 2. modul
 
-### System Sequence Diagram és Activity Diagram
+### USE CASE Diagram
+
+Az első modulban definiált USE CASE-ekhez elkészítettük a USE CASE Diagramot. Bár több aktort is definiáltunk, akik szerintünk szerepelhetnek a teljes házi feladat többi feladatában, őket nem szerepeltettük itt, mert nincs olyan USE CASE-ünk amiben részt vennének.
+
 ![    ](./../png/ucd.png)
-##### UC5: Leadott dolgozat bírálatra továbbítása
-![Leadott dolgozat bírálatra továbbítása - System Sequence Diagram ](./../png/uc5_ssd.png)
 
-![Leadott dolgozat bírálatra továbbítása - Aktivitás Diagram](./../png/uc5_ad.png)
+A továbbiakban az 5-ös USE CASE-el foglalkoztunk mélyrehatóbban, mert a feladat kiírás alapján ez a lényeges használati eset. A többi USE CASE-t azért találtuk szükségesnek kifejteni, mivel a többi hallgató házi feladatánál nem találtunk utalást ezeknek a USE CASE-eknek a tisztázására.
 
+<!-- word newPage -->
+### System Sequence Diagram
+
+A System Sequence Diagram esetén, ahogyan az a USE CASE-ben is szerepel, a **Konzulens** az aktor és a USE CASE támogató aktorai a **Rendszer**, ami a levélküldés és az iktatás megvalósítását két külső segédaktor segítségével végzi el. 
+
+![Leadott dolgozat bírálatra továbbítása - System Sequence Diagram](./../png/uc5_ssd.png)
+
+<!-- word newPage -->
+### Activity Diagram
+
+![Leadott dolgozat bírálatra továbbítása - Activity Diagram](./../png/uc5_ad.png)
+
+<!-- word newPage -->
 # Szoftvertervezés házi feladat 3. modul
 
-### Kommunikációs diagram
-![    ](./../png/uc5_id.png)
+A házi feladat harmadik moduljában szintén a USE CASE 5-tel foglalkoztunk és ennek készítettük el az Interakciós és a Design Class Diagramját.
 
+### Interakciós diagram
+
+A interakciós diagramok közül az szekvencia diagramot találtuk a legalkalmasabbnak a USE CASE 5 leírására, mivel ez magában foglal minden tevékenységet ami a USE CASE során lezajlik.
+
+![Leadott dolgozat bírálatra továbbítása - Sequence Diagram](./../png/uc5_sd.png)
+
+<!-- word newPage -->
 ### Design Class Diagram
-![    ](./../png/uc5_dcd.png)
+
+A Sequence Diagram alapján készítettük el a Design Class Diagram a osztályok között kapcsolat leírására és metódusaik részletes felsorolására.
+
+![Leadott dolgozat bírálatra továbbítása - Design Class Diagram](./../png/uc5_dcd.png)

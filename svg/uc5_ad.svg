@@ -1,1 +1,2265 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1652" height="1740"><defs/><g><g transform="translate(10,10) scale(1,1)"><rect fill="#ffffff" stroke="none" x="0" y="0" width="952" height="21"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 0 0 L 952 0 L 952 21 L 0 21 L 0 0 Z Z" stroke-miterlimit="10" stroke-width="2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 0 1720 L 0 0 L 952 0 L 952 1720" stroke-miterlimit="10" stroke-width="2"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="448.181396484375" y="14">Rendszer</text></g></g><g transform="translate(10,10) scale(1,1)"><rect fill="#ffffff" stroke="none" x="952" y="0" width="680" height="21"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 952 0 L 1632 0 L 1632 21 L 952 21 L 952 0 Z Z" stroke-miterlimit="10" stroke-width="2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 952 1720 L 952 0 L 1632 0 L 1632 1720" stroke-miterlimit="10" stroke-width="2"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="1261.6455078125" y="14">Konzulens</text></g></g><g transform="translate(10,10) scale(1,1)"><path fill="#C0C0C0" stroke="none" d="M 489 239 L 773.470703125 239 Q 783.470703125 239 783.470703125 249 L 783.470703125 269 Q 783.470703125 279 773.470703125 279 L 489 279 Q 479 279 479 269 L 479 249 Q 479 239 489 239 Z" opacity="0.2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#ffffff" stroke="none" d="M 482 232 L 766.470703125 232 Q 776.470703125 232 776.470703125 242 L 776.470703125 262 Q 776.470703125 272 766.470703125 272 L 482 272 Q 472 272 472 262 L 472 242 Q 472 232 482 232 Z"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 482 232 L 766.470703125 232 Q 776.470703125 232 776.470703125 242 L 776.470703125 262 Q 776.470703125 272 766.470703125 272 L 482 272 Q 472 272 472 262 L 472 242 Q 472 232 482 232 Z" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="bold" text-decoration="none" x="476.5" y="250">Címzett kitöltése a hozzárendelt bíráló adataival</text></g></g><g transform="translate(10,10) scale(1,1)"><path fill="#C0C0C0" stroke="none" d="M 1129 351 L 1244.45166015625 351 Q 1254.45166015625 351 1254.45166015625 361 L 1254.45166015625 381 Q 1254.45166015625 391 1244.45166015625 391 L 1129 391 Q 1119 391 1119 381 L 1119 361 Q 1119 351 1129 351 Z" opacity="0.2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#ffffff" stroke="none" d="M 1122 344 L 1237.45166015625 344 Q 1247.45166015625 344 1247.45166015625 354 L 1247.45166015625 374 Q 1247.45166015625 384 1237.45166015625 384 L 1122 384 Q 1112 384 1112 374 L 1112 354 Q 1112 344 1122 344 Z"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1122 344 L 1237.45166015625 344 Q 1247.45166015625 344 1247.45166015625 354 L 1247.45166015625 374 Q 1247.45166015625 384 1237.45166015625 384 L 1122 384 Q 1112 384 1112 374 L 1112 354 Q 1112 344 1122 344 Z" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="bold" text-decoration="none" x="1119.04541015625" y="362">Címzett nyugtázása</text></g></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 728 273 L 1111 350" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1100.2069852277457 352.1238719655144 L 1111 350 L 1101.866381795905 343.8699903342796" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1111 364 L 667 364" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 677.1626748576241 359.790482243984 L 667 364 L 677.1626748576241 368.209517756016" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#C0C0C0" stroke="none" d="M 1175 48.5 C 1175 43.2532944 1179.2532944 39 1184.5 39 C 1189.7467056 39 1194 43.2532944 1194 48.5 C 1194 53.7467056 1189.7467056 58 1184.5 58 C 1179.2532944 58 1175 53.7467056 1175 48.5 Z" opacity="0.2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#000000" stroke="none" d="M 1168 41.5 C 1168 36.2532944 1172.2532944 32 1177.5 32 C 1182.7467056 32 1187 36.2532944 1187 41.5 C 1187 46.7467056 1182.7467056 51 1177.5 51 C 1172.2532944 51 1168 46.7467056 1168 41.5 Z"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#C0C0C0" stroke="none" d="M 505 351 L 663.0380859375 351 Q 673.0380859375 351 673.0380859375 361 L 673.0380859375 381 Q 673.0380859375 391 663.0380859375 391 L 505 391 Q 495 391 495 381 L 495 361 Q 495 351 505 351 Z" opacity="0.2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#ffffff" stroke="none" d="M 498 344 L 656.0380859375 344 Q 666.0380859375 344 666.0380859375 354 L 666.0380859375 374 Q 666.0380859375 384 656.0380859375 384 L 498 384 Q 488 384 488 374 L 488 354 Q 488 344 498 344 Z"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 498 344 L 656.0380859375 344 Q 666.0380859375 344 666.0380859375 354 L 666.0380859375 374 Q 666.0380859375 384 656.0380859375 384 L 498 384 Q 488 384 488 374 L 488 354 Q 488 344 498 344 Z" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="bold" text-decoration="none" x="494.66455078125" y="362">Automatikus email kitöltés</text></g></g><g transform="translate(10,10) scale(1,1)"><path fill="#C0C0C0" stroke="none" d="M 546 463 L 609 463 Q 612 463 612 466 L 612 465 Q 612 468 609 468 L 546 468 Q 543 468 543 465 L 543 466 Q 543 463 546 463 Z" opacity="0.2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#000000" stroke="none" d="M 539 456 L 602 456 Q 605 456 605 459 L 605 459 Q 605 462 602 462 L 539 462 Q 536 462 536 459 L 536 459 Q 536 456 539 456 Z"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 583 462 L 740 511" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 729.044695029108 511.9906023393614 L 740 511 L 731.5529679334938 503.95389119673723" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 570 462 L 569 511" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 564.9987169383965 500.7535501825791 L 569 511 L 573.4159997626792 500.9253314647073" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 559 462 L 427 511" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 435.0624744607085 503.51691871149166 L 427 511 L 437.99236788758475 511.4096928410359" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 575 385 L 570 455" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 566.525240495762 444.5632358277239 L 570 455 L 574.9228807114221 445.16306727169956" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#C0C0C0" stroke="none" d="M 481 519 L 670.83349609375 519 Q 680.83349609375 519 680.83349609375 529 L 680.83349609375 549 Q 680.83349609375 559 670.83349609375 559 L 481 559 Q 471 559 471 549 L 471 529 Q 471 519 481 519 Z" opacity="0.2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#ffffff" stroke="none" d="M 474 512 L 663.83349609375 512 Q 673.83349609375 512 673.83349609375 522 L 673.83349609375 542 Q 673.83349609375 552 663.83349609375 552 L 474 552 Q 464 552 464 542 L 464 522 Q 464 512 474 512 Z"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 474 512 L 663.83349609375 512 Q 673.83349609375 512 673.83349609375 522 L 673.83349609375 542 Q 673.83349609375 552 663.83349609375 552 L 474 552 Q 464 552 464 542 L 464 522 Q 464 512 474 512 Z" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="bold" text-decoration="none" x="468.5" y="530">Hallgató dolgozatának csatolása</text></g></g><g transform="translate(10,10) scale(1,1)"><path fill="#C0C0C0" stroke="none" d="M 313 519 L 444.33984375 519 Q 454.33984375 519 454.33984375 529 L 454.33984375 549 Q 454.33984375 559 444.33984375 559 L 313 559 Q 303 559 303 549 L 303 529 Q 303 519 313 519 Z" opacity="0.2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#ffffff" stroke="none" d="M 306 512 L 437.33984375 512 Q 447.33984375 512 447.33984375 522 L 447.33984375 542 Q 447.33984375 552 437.33984375 552 L 306 552 Q 296 552 296 542 L 296 522 Q 296 512 306 512 Z"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 306 512 L 437.33984375 512 Q 447.33984375 512 447.33984375 522 L 447.33984375 542 Q 447.33984375 552 437.33984375 552 L 306 552 Q 296 552 296 542 L 296 522 Q 296 512 306 512 Z" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="bold" text-decoration="none" x="300.5" y="530">Bírálati űrlap csatolása</text></g></g><g transform="translate(10,10) scale(1,1)"><path fill="#C0C0C0" stroke="none" d="M 713 519 L 917.33154296875 519 Q 927.33154296875 519 927.33154296875 529 L 927.33154296875 549 Q 927.33154296875 559 917.33154296875 559 L 713 559 Q 703 559 703 549 L 703 529 Q 703 519 713 519 Z" opacity="0.2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#ffffff" stroke="none" d="M 706 512 L 910.33154296875 512 Q 920.33154296875 512 920.33154296875 522 L 920.33154296875 542 Q 920.33154296875 552 910.33154296875 552 L 706 552 Q 696 552 696 542 L 696 522 Q 696 512 706 512 Z"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 706 512 L 910.33154296875 512 Q 920.33154296875 512 920.33154296875 522 L 920.33154296875 542 Q 920.33154296875 552 910.33154296875 552 L 706 552 Q 696 552 696 542 L 696 522 Q 696 512 706 512 Z" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="bold" text-decoration="none" x="700.5" y="530">Hallgató  témakiírásának csatolása</text></g></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 428 553 L 554 599" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 543.010005074148 599.4690538665724 L 554 599 L 545.8972288929292 591.5605712325194" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 566 553 L 562 599" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 558.686696178883 588.5108619139144 L 562 599 L 567.0740810694301 589.2401997304837" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 734 553 L 573 599" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 581.6152117818561 592.1605463702306 L 573 599 L 583.9280987135297 600.2556506310877" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#C0C0C0" stroke="none" d="M 1193 527 L 1395.13525390625 527 Q 1405.13525390625 527 1405.13525390625 537 L 1405.13525390625 557 Q 1405.13525390625 567 1395.13525390625 567 L 1193 567 Q 1183 567 1183 557 L 1183 537 Q 1183 527 1193 527 Z" opacity="0.2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#ffffff" stroke="none" d="M 1186 520 L 1388.13525390625 520 Q 1398.13525390625 520 1398.13525390625 530 L 1398.13525390625 550 Q 1398.13525390625 560 1388.13525390625 560 L 1186 560 Q 1176 560 1176 550 L 1176 530 Q 1176 520 1186 520 Z"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1186 520 L 1388.13525390625 520 Q 1398.13525390625 520 1398.13525390625 530 L 1398.13525390625 550 Q 1398.13525390625 560 1388.13525390625 560 L 1186 560 Q 1176 560 1176 550 L 1176 530 Q 1176 520 1186 520 Z" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="bold" text-decoration="none" x="1180.5" y="538">Módosítás eszközölése az emailen</text></g></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1063 651 L 1245 561" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1237.7562432319505 569.2781633159378 L 1245 561 L 1234.024345051577 561.7314358845156" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="1095.5" y="643">Módosítás</text></g></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1063 657 L 1239 659" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1228.7901489024775 663.0937685042536 L 1239 659 L 1228.8858135840712 654.6752765240026" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="1089.5" y="673">Nincs módosítás</text></g></g><g transform="translate(10,10) scale(1,1)"><path fill="#C0C0C0" stroke="none" d="M 1257 647 L 1325 647 Q 1335 647 1335 657 L 1335 677 Q 1335 687 1325 687 L 1257 687 Q 1247 687 1247 677 L 1247 657 Q 1247 647 1257 647 Z" opacity="0.2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#ffffff" stroke="none" d="M 1250 640 L 1318 640 Q 1328 640 1328 650 L 1328 670 Q 1328 680 1318 680 L 1250 680 Q 1240 680 1240 670 L 1240 650 Q 1240 640 1250 640 Z"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1250 640 L 1318 640 Q 1328 640 1328 650 L 1328 670 Q 1328 680 1318 680 L 1250 680 Q 1240 680 1240 670 L 1240 650 Q 1240 640 1250 640 Z" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="bold" text-decoration="none" x="1262.3291015625" y="658">Küldés</text></g></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="965" y="687">Van</text><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="965" y="700">módosítás?</text></g></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1173 185 L 1175 231" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1170.3530169751095 221.02976686499363 L 1175 231 L 1178.7641062508148 220.6640673312673" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#C0C0C0" stroke="none" d="M 1121 151 L 1240.787109375 151 Q 1250.787109375 151 1250.787109375 161 L 1250.787109375 181 Q 1250.787109375 191 1240.787109375 191 L 1121 191 Q 1111 191 1111 181 L 1111 161 Q 1111 151 1121 151 Z" opacity="0.2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#ffffff" stroke="none" d="M 1114 144 L 1233.787109375 144 Q 1243.787109375 144 1243.787109375 154 L 1243.787109375 174 Q 1243.787109375 184 1233.787109375 184 L 1114 184 Q 1104 184 1104 174 L 1104 154 Q 1104 144 1114 144 Z"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1114 144 L 1233.787109375 144 Q 1243.787109375 144 1243.787109375 154 L 1243.787109375 174 Q 1243.787109375 184 1233.787109375 184 L 1114 184 Q 1104 184 1104 174 L 1104 154 Q 1104 144 1114 144 Z" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="bold" text-decoration="none" x="1108.5" y="162">Hallgató kiválasztása</text></g></g><g transform="translate(10,10) scale(1,1)"><path fill="#C0C0C0" stroke="none" d="M 1121 239 L 1244.38623046875 239 Q 1254.38623046875 239 1254.38623046875 249 L 1254.38623046875 269 Q 1254.38623046875 279 1244.38623046875 279 L 1121 279 Q 1111 279 1111 269 L 1111 249 Q 1111 239 1121 239 Z" opacity="0.2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#ffffff" stroke="none" d="M 1114 232 L 1237.38623046875 232 Q 1247.38623046875 232 1247.38623046875 242 L 1247.38623046875 262 Q 1247.38623046875 272 1237.38623046875 272 L 1114 272 Q 1104 272 1104 262 L 1104 242 Q 1104 232 1114 232 Z"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1114 232 L 1237.38623046875 232 Q 1247.38623046875 232 1247.38623046875 242 L 1247.38623046875 262 Q 1247.38623046875 272 1237.38623046875 272 L 1114 272 Q 1104 272 1104 262 L 1104 242 Q 1104 232 1114 232 Z" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="bold" text-decoration="none" x="1108.5" y="250">Dolgozat kiválasztása</text></g></g><g transform="translate(10,10) scale(1,1)"><path fill="#C0C0C0" stroke="none" d="M 1089 79 L 1274.99951171875 79 Q 1284.99951171875 79 1284.99951171875 89 L 1284.99951171875 109 Q 1284.99951171875 119 1274.99951171875 119 L 1089 119 Q 1079 119 1079 109 L 1079 89 Q 1079 79 1089 79 Z" opacity="0.2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#ffffff" stroke="none" d="M 1082 72 L 1267.99951171875 72 Q 1277.99951171875 72 1277.99951171875 82 L 1277.99951171875 102 Q 1277.99951171875 112 1267.99951171875 112 L 1082 112 Q 1072 112 1072 102 L 1072 82 Q 1072 72 1082 72 Z"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1082 72 L 1267.99951171875 72 Q 1277.99951171875 72 1277.99951171875 82 L 1277.99951171875 102 Q 1277.99951171875 112 1267.99951171875 112 L 1082 112 Q 1072 112 1072 102 L 1072 82 Q 1072 72 1082 72 Z" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="bold" text-decoration="none" x="1076.5" y="90">Továbbítás funkció kiválasztása</text></g></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1176 52 L 1175 71" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1171.3304388478734 60.63012435220154 L 1175 71 L 1179.7378378159722 61.07261903473305" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#C0C0C0" stroke="none" d="M 1047 664.5 L 1058.5 655 L 1069 664.5 L 1058.5 673 L 1047 664.5" opacity="0.2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#ffffff" stroke="none" d="M 1040 657 L 1051 648 L 1062 657 L 1051 666 L 1040 657"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1040 657 L 1051 648 L 1062 657 L 1051 666 L 1040 657 L 1040 657" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#C0C0C0" stroke="none" d="M 538 607 L 601 607 Q 604 607 604 610 L 604 609 Q 604 612 601 612 L 538 612 Q 535 612 535 609 L 535 610 Q 535 607 538 607 Z" opacity="0.2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#000000" stroke="none" d="M 531 600 L 594 600 Q 597 600 597 603 L 597 603 Q 597 606 594 606 L 531 606 Q 528 606 528 603 L 528 603 Q 528 600 531 600 Z"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1103 252 L 777 252" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 787.1626748576241 247.790482243984 L 777 252 L 787.1626748576241 256.209517756016" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="1309" y="807">Küldés</text><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="1309" y="820">megerősítése</text></g></g><g transform="translate(10,10) scale(1,1)"><path fill="#C0C0C0" stroke="none" d="M 1279 816.5 L 1290.5 807 L 1301 816.5 L 1290.5 825 L 1279 816.5" opacity="0.2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#ffffff" stroke="none" d="M 1272 809 L 1283 800 L 1294 809 L 1283 818 L 1272 809"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1272 809 L 1283 800 L 1294 809 L 1283 818 L 1272 809 L 1272 809" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#C0C0C0" stroke="none" d="M 481 871 L 703.365234375 871 Q 713.365234375 871 713.365234375 881 L 713.365234375 901 Q 713.365234375 911 703.365234375 911 L 481 911 Q 471 911 471 901 L 471 881 Q 471 871 481 871 Z" opacity="0.2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#ffffff" stroke="none" d="M 474 864 L 696.365234375 864 Q 706.365234375 864 706.365234375 874 L 706.365234375 894 Q 706.365234375 904 696.365234375 904 L 474 904 Q 464 904 464 894 L 464 874 Q 464 864 474 864 Z"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 474 864 L 696.365234375 864 Q 706.365234375 864 706.365234375 874 L 706.365234375 894 Q 706.365234375 904 696.365234375 904 L 474 904 Q 464 904 464 894 L 464 874 Q 464 864 474 864 Z" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="bold" text-decoration="none" x="468.5" y="883">Üzenet továbbítása a címzett számára</text></g></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="509" y="935">Továbbítás</text><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="509" y="948">sikeres?</text></g></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 583 905 L 580 951" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 576.4607840884197 940.5849171519753 L 580 951 L 584.8619721372962 941.1328207203803" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 591 966 L 732 1031" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 721.0084758270468 1030.5682635579592 L 732 1031 L 724.5331024875813 1022.9225349558765" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="667.5" y="1000">Sikeres</text></g></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 567 967 L 446 1031" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 453.01528594429976 1022.5273520597331 L 446 1031 L 456.95162307634604 1029.969489450008" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="406.5" y="1010">Sikertelen</text></g></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 778 1073 L 778 1143" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 773.790482243984 1132.837325142376 L 778 1143 L 782.209517756016 1132.837325142376" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 279 1054 L 144 1056 L 144 256 L 471 253" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 460.87637060518176 257.30257223952975 L 471 253 L 460.7991349975881 248.88389101182102" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#C0C0C0" stroke="none" d="M 297 1039 L 530.21337890625 1039 Q 540.21337890625 1039 540.21337890625 1049 L 540.21337890625 1069 Q 540.21337890625 1079 530.21337890625 1079 L 297 1079 Q 287 1079 287 1069 L 287 1049 Q 287 1039 297 1039 Z" opacity="0.2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#ffffff" stroke="none" d="M 290 1032 L 523.21337890625 1032 Q 533.21337890625 1032 533.21337890625 1042 L 533.21337890625 1062 Q 533.21337890625 1072 523.21337890625 1072 L 290 1072 Q 280 1072 280 1062 L 280 1042 Q 280 1032 290 1032 Z"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 290 1032 L 523.21337890625 1032 Q 533.21337890625 1032 533.21337890625 1042 L 533.21337890625 1062 Q 533.21337890625 1072 523.21337890625 1072 L 290 1072 Q 280 1072 280 1062 L 280 1042 Q 280 1032 290 1032 Z" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="bold" text-decoration="none" x="284.5" y="1050">Konzulens értesítése a sikertelenségről</text></g></g><g transform="translate(10,10) scale(1,1)"><path fill="#C0C0C0" stroke="none" d="M 673 1039 L 897.5615234375 1039 Q 907.5615234375 1039 907.5615234375 1049 L 907.5615234375 1069 Q 907.5615234375 1079 897.5615234375 1079 L 673 1079 Q 663 1079 663 1069 L 663 1049 Q 663 1039 673 1039 Z" opacity="0.2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#ffffff" stroke="none" d="M 666 1032 L 890.5615234375 1032 Q 900.5615234375 1032 900.5615234375 1042 L 900.5615234375 1062 Q 900.5615234375 1072 890.5615234375 1072 L 666 1072 Q 656 1072 656 1062 L 656 1042 Q 656 1032 666 1032 Z"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 666 1032 L 890.5615234375 1032 Q 900.5615234375 1032 900.5615234375 1042 L 900.5615234375 1062 Q 900.5615234375 1072 890.5615234375 1072 L 666 1072 Q 656 1072 656 1062 L 656 1042 Q 656 1032 666 1032 Z" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="bold" text-decoration="none" x="660.5" y="1050">Konzulens értesítése a sikerességéről</text></g></g><g transform="translate(10,10) scale(1,1)"><path fill="#C0C0C0" stroke="none" d="M 361 1247 L 568.89892578125 1247 Q 578.89892578125 1247 578.89892578125 1257 L 578.89892578125 1277 Q 578.89892578125 1287 568.89892578125 1287 L 361 1287 Q 351 1287 351 1277 L 351 1257 Q 351 1247 361 1247 Z" opacity="0.2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#ffffff" stroke="none" d="M 354 1240 L 561.89892578125 1240 Q 571.89892578125 1240 571.89892578125 1250 L 571.89892578125 1270 Q 571.89892578125 1280 561.89892578125 1280 L 354 1280 Q 344 1280 344 1270 L 344 1250 Q 344 1240 354 1240 Z"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 354 1240 L 561.89892578125 1240 Q 571.89892578125 1240 571.89892578125 1250 L 571.89892578125 1270 Q 571.89892578125 1280 561.89892578125 1280 L 354 1280 Q 344 1280 344 1270 L 344 1250 Q 344 1240 354 1240 Z" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="bold" text-decoration="none" x="348.5" y="1258">Bírálóhoz rendeli a bírálás feladatát</text></g></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 776 1185 L 772 1247" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 768.453511850606 1236.5873912103543 L 772 1247 L 776.8550804651669 1237.1294278951646" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 759 1257 L 573 1259" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 583.1168263874775 1254.6814558187234 L 573 1259 L 583.2073484181068 1263.100004667238" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="671.5" y="1276">Igen</text></g></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="797" y="1255">Tanszéki</text><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="797" y="1268">kolléga a</text><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="797" y="1281">Bíráló?</text></g></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 759 1265 L 598 1375" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 604.0164379876661 1365.7911741280136 L 598 1375 L 608.7658873205148 1372.7426408788194" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="727.5" y="1307">Nem</text></g></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 481 1281 L 591 1375" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 580.53929197767 1371.5980023998302 L 591 1375 L 586.0087379940583 1365.1975868487375" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 594 1382 L 588 1439" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 584.8774890650699 1428.452491978612 L 588 1439 L 593.2502657901247 1429.333836897039" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#C0C0C0" stroke="none" d="M 575 968.5 L 586.5 959 L 597 968.5 L 586.5 977 L 575 968.5" opacity="0.2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#ffffff" stroke="none" d="M 568 961 L 579 952 L 590 961 L 579 970 L 568 961"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 568 961 L 579 952 L 590 961 L 579 970 L 568 961 L 568 961" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 586 1481 L 587 1535" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 582.603038433977 1524.9170079347984 L 587 1535 L 591.0206307240026 1524.7611265960943" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 587 1577 L 588 1623" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 583.570601050423 1612.9312153193405 L 588 1623 L 591.9876478921751 1612.7482360401718" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1283 819 L 1280 880 L 707 883" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 717.1404965153388 878.7373329449274 L 707 883 L 717.1845746311769 887.1562530700123" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="1287.5" y="867">Megerősít</text></g></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1284 681 L 1283 799" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1278.8767546670558 788.8020174581267 L 1283 799 L 1287.29548787436 788.8733626547987" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1174 113 L 1173 143" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1169.1313867055028 132.7027270028595 L 1173 143 L 1177.5457488696798 132.9832057416654" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1175 538 L 1048 536 L 1051 647" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1046.517452218431 636.9547640452824 L 1051 647 L 1054.9334145288594 636.7273056044601" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1271 809 L 1048 808 L 1051 667" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1054.9923870697423 677.2499192916507 L 1051 667 L 1046.5752565323953 677.0708314078773" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="1182.5" y="826">Nem erősít meg</text></g></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 562 606 L 560 656 L 1039 657" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 1028.8285591707743 661.1882921886561 L 1039 657 L 1028.8461354070273 652.7692750234061" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#C0C0C0" stroke="none" d="M 721 1151 L 850.8798828125 1151 Q 860.8798828125 1151 860.8798828125 1161 L 860.8798828125 1181 Q 860.8798828125 1191 850.8798828125 1191 L 721 1191 Q 711 1191 711 1181 L 711 1161 Q 711 1151 721 1151 Z" opacity="0.2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#ffffff" stroke="none" d="M 714 1144 L 843.8798828125 1144 Q 853.8798828125 1144 853.8798828125 1154 L 853.8798828125 1174 Q 853.8798828125 1184 843.8798828125 1184 L 714 1184 Q 704 1184 704 1174 L 704 1154 Q 704 1144 714 1144 Z"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 714 1144 L 843.8798828125 1144 Q 853.8798828125 1144 853.8798828125 1154 L 853.8798828125 1174 Q 853.8798828125 1184 843.8798828125 1184 L 714 1184 Q 704 1184 704 1174 L 704 1154 Q 704 1144 714 1144 Z" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="bold" text-decoration="none" x="708.5" y="1162">Kiküldött levél iktatása</text></g></g><g transform="translate(10,10) scale(1,1)"><path fill="#C0C0C0" stroke="none" d="M 767 1264.5 L 778.5 1255 L 789 1264.5 L 778.5 1273 L 767 1264.5" opacity="0.2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#ffffff" stroke="none" d="M 760 1257 L 771 1248 L 782 1257 L 771 1266 L 760 1257"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 760 1257 L 771 1248 L 782 1257 L 771 1266 L 760 1257 L 760 1257" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#C0C0C0" stroke="none" d="M 570 1383 L 633 1383 Q 636 1383 636 1386 L 636 1385 Q 636 1388 633 1388 L 570 1388 Q 567 1388 567 1385 L 567 1386 Q 567 1383 570 1383 Z" opacity="0.2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#000000" stroke="none" d="M 563 1376 L 626 1376 Q 629 1376 629 1379 L 629 1379 Q 629 1382 626 1382 L 563 1382 Q 560 1382 560 1379 L 560 1379 Q 560 1376 563 1376 Z"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#C0C0C0" stroke="none" d="M 409 1447 L 777.99609375 1447 Q 787.99609375 1447 787.99609375 1457 L 787.99609375 1477 Q 787.99609375 1487 777.99609375 1487 L 409 1487 Q 399 1487 399 1477 L 399 1457 Q 399 1447 409 1447 Z" opacity="0.2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#ffffff" stroke="none" d="M 402 1440 L 770.99609375 1440 Q 780.99609375 1440 780.99609375 1450 L 780.99609375 1470 Q 780.99609375 1480 770.99609375 1480 L 402 1480 Q 392 1480 392 1470 L 392 1450 Q 392 1440 402 1440 Z"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 402 1440 L 770.99609375 1440 Q 780.99609375 1440 780.99609375 1450 L 780.99609375 1470 Q 780.99609375 1480 770.99609375 1480 L 402 1480 Q 392 1480 392 1470 L 392 1450 Q 392 1440 402 1440 Z" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="bold" text-decoration="none" x="396.5" y="1458">Bírálatra továbbítás feladat törlése a Konzulens kezdőlapjáról</text></g></g><g transform="translate(10,10) scale(1,1)"><path fill="#C0C0C0" stroke="none" d="M 545 1543 L 643.08447265625 1543 Q 653.08447265625 1543 653.08447265625 1553 L 653.08447265625 1573 Q 653.08447265625 1583 643.08447265625 1583 L 545 1583 Q 535 1583 535 1573 L 535 1553 Q 535 1543 545 1543 Z" opacity="0.2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#ffffff" stroke="none" d="M 538 1536 L 636.08447265625 1536 Q 646.08447265625 1536 646.08447265625 1546 L 646.08447265625 1566 Q 646.08447265625 1576 636.08447265625 1576 L 538 1576 Q 528 1576 528 1566 L 528 1546 Q 528 1536 538 1536 Z"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 538 1536 L 636.08447265625 1536 Q 646.08447265625 1536 646.08447265625 1546 L 646.08447265625 1566 Q 646.08447265625 1576 636.08447265625 1576 L 538 1576 Q 528 1576 528 1566 L 528 1546 Q 528 1536 538 1536 Z" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><g><path fill="none" stroke="none"/><text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="bold" text-decoration="none" x="532.5" y="1554">Kezdőlapra ugrás</text></g></g><g transform="translate(10,10) scale(1,1)"><path fill="#C0C0C0" stroke="none" d="M 583 1643.5 C 583 1636.59644 588.59644 1631 595.5 1631 C 602.40356 1631 608 1636.59644 608 1643.5 C 608 1650.40356 602.40356 1656 595.5 1656 C 588.59644 1656 583 1650.40356 583 1643.5 Z" opacity="0.2"/></g><g transform="translate(10,10) scale(1,1)"><path fill="none" stroke="#000000" d="M 576 1636.5 C 576 1629.59644 581.59644 1624 588.5 1624 C 595.40356 1624 601 1629.59644 601 1636.5 C 601 1643.40356 595.40356 1649 588.5 1649 C 581.59644 1649 576 1643.40356 576 1636.5 Z" stroke-miterlimit="10"/></g><g transform="translate(10,10) scale(1,1)"><path fill="#000000" stroke="none" d="M 581 1636.5 C 581 1632.357864 584.357864 1629 588.5 1629 C 592.642136 1629 596 1632.357864 596 1636.5 C 596 1640.642136 592.642136 1644 588.5 1644 C 584.357864 1644 581 1640.642136 581 1636.5 Z"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="1652"
+   height="1740"
+   id="svg860"
+   sodipodi:docname="uc5_ad.svg"
+   inkscape:export-filename="C:\Users\Später\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\bme\8felev\szofterv\png\uc5_ad.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata864">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview862"
+     showgrid="false"
+     inkscape:zoom="0.49885057"
+     inkscape:cx="826"
+     inkscape:cy="1110.553"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg860" />
+  <defs
+     id="defs2" />
+  <g
+     id="g858">
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g6">
+      <rect
+         fill="#ffffff"
+         stroke="none"
+         x="0"
+         y="0"
+         width="952"
+         height="21"
+         id="rect4" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g10">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 0 0 L 952 0 L 952 21 L 0 21 L 0 0 Z Z"
+         stroke-miterlimit="10"
+         stroke-width="2"
+         id="path8" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g14">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 0 1720 L 0 0 L 952 0 L 952 1720"
+         stroke-miterlimit="10"
+         stroke-width="2"
+         id="path12" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g22">
+      <g
+         id="g20">
+        <path
+           fill="none"
+           stroke="none"
+           id="path16" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="448.181396484375"
+           y="14"
+           id="text18">Rendszer</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g26">
+      <rect
+         fill="#ffffff"
+         stroke="none"
+         x="952"
+         y="0"
+         width="680"
+         height="21"
+         id="rect24" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g30">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 952 0 L 1632 0 L 1632 21 L 952 21 L 952 0 Z Z"
+         stroke-miterlimit="10"
+         stroke-width="2"
+         id="path28" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g34">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 952 1720 L 952 0 L 1632 0 L 1632 1720"
+         stroke-miterlimit="10"
+         stroke-width="2"
+         id="path32" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g42">
+      <g
+         id="g40">
+        <path
+           fill="none"
+           stroke="none"
+           id="path36" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="1261.6455078125"
+           y="14"
+           id="text38">Konzulens</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g46">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 489 239 L 773.470703125 239 Q 783.470703125 239 783.470703125 249 L 783.470703125 269 Q 783.470703125 279 773.470703125 279 L 489 279 Q 479 279 479 269 L 479 249 Q 479 239 489 239 Z"
+         opacity="0.2"
+         id="path44" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g50">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 482 232 L 766.470703125 232 Q 776.470703125 232 776.470703125 242 L 776.470703125 262 Q 776.470703125 272 766.470703125 272 L 482 272 Q 472 272 472 262 L 472 242 Q 472 232 482 232 Z"
+         id="path48" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g54">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 482 232 L 766.470703125 232 Q 776.470703125 232 776.470703125 242 L 776.470703125 262 Q 776.470703125 272 766.470703125 272 L 482 272 Q 472 272 472 262 L 472 242 Q 472 232 482 232 Z"
+         stroke-miterlimit="10"
+         id="path52" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g62">
+      <g
+         id="g60">
+        <path
+           fill="none"
+           stroke="none"
+           id="path56" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="476.5"
+           y="250"
+           id="text58">Címzett kitöltése a hozzárendelt bíráló adataival</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g66">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 1129 351 L 1244.45166015625 351 Q 1254.45166015625 351 1254.45166015625 361 L 1254.45166015625 381 Q 1254.45166015625 391 1244.45166015625 391 L 1129 391 Q 1119 391 1119 381 L 1119 361 Q 1119 351 1129 351 Z"
+         opacity="0.2"
+         id="path64" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g70">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 1122 344 L 1237.45166015625 344 Q 1247.45166015625 344 1247.45166015625 354 L 1247.45166015625 374 Q 1247.45166015625 384 1237.45166015625 384 L 1122 384 Q 1112 384 1112 374 L 1112 354 Q 1112 344 1122 344 Z"
+         id="path68" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g74">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1122 344 L 1237.45166015625 344 Q 1247.45166015625 344 1247.45166015625 354 L 1247.45166015625 374 Q 1247.45166015625 384 1237.45166015625 384 L 1122 384 Q 1112 384 1112 374 L 1112 354 Q 1112 344 1122 344 Z"
+         stroke-miterlimit="10"
+         id="path72" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g82">
+      <g
+         id="g80">
+        <path
+           fill="none"
+           stroke="none"
+           id="path76" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="1119.04541015625"
+           y="362"
+           id="text78">Címzett nyugtázása</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g86">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 728 273 L 1111 350"
+         stroke-miterlimit="10"
+         id="path84" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g90">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1100.2069852277457 352.1238719655144 L 1111 350 L 1101.866381795905 343.8699903342796"
+         stroke-miterlimit="10"
+         id="path88" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g94">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1111 364 L 667 364"
+         stroke-miterlimit="10"
+         id="path92" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g98">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 677.1626748576241 359.790482243984 L 667 364 L 677.1626748576241 368.209517756016"
+         stroke-miterlimit="10"
+         id="path96" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g102">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 1175 48.5 C 1175 43.2532944 1179.2532944 39 1184.5 39 C 1189.7467056 39 1194 43.2532944 1194 48.5 C 1194 53.7467056 1189.7467056 58 1184.5 58 C 1179.2532944 58 1175 53.7467056 1175 48.5 Z"
+         opacity="0.2"
+         id="path100" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g106">
+      <path
+         fill="#000000"
+         stroke="none"
+         d="M 1168 41.5 C 1168 36.2532944 1172.2532944 32 1177.5 32 C 1182.7467056 32 1187 36.2532944 1187 41.5 C 1187 46.7467056 1182.7467056 51 1177.5 51 C 1172.2532944 51 1168 46.7467056 1168 41.5 Z"
+         id="path104" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g110">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 505 351 L 663.0380859375 351 Q 673.0380859375 351 673.0380859375 361 L 673.0380859375 381 Q 673.0380859375 391 663.0380859375 391 L 505 391 Q 495 391 495 381 L 495 361 Q 495 351 505 351 Z"
+         opacity="0.2"
+         id="path108" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g114">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 498 344 L 656.0380859375 344 Q 666.0380859375 344 666.0380859375 354 L 666.0380859375 374 Q 666.0380859375 384 656.0380859375 384 L 498 384 Q 488 384 488 374 L 488 354 Q 488 344 498 344 Z"
+         id="path112" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g118">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 498 344 L 656.0380859375 344 Q 666.0380859375 344 666.0380859375 354 L 666.0380859375 374 Q 666.0380859375 384 656.0380859375 384 L 498 384 Q 488 384 488 374 L 488 354 Q 488 344 498 344 Z"
+         stroke-miterlimit="10"
+         id="path116" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g126">
+      <g
+         id="g124">
+        <path
+           fill="none"
+           stroke="none"
+           id="path120" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="494.66455078125"
+           y="362"
+           id="text122">Automatikus email kitöltés</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g130">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 546 463 L 609 463 Q 612 463 612 466 L 612 465 Q 612 468 609 468 L 546 468 Q 543 468 543 465 L 543 466 Q 543 463 546 463 Z"
+         opacity="0.2"
+         id="path128" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g134">
+      <path
+         fill="#000000"
+         stroke="none"
+         d="M 539 456 L 602 456 Q 605 456 605 459 L 605 459 Q 605 462 602 462 L 539 462 Q 536 462 536 459 L 536 459 Q 536 456 539 456 Z"
+         id="path132" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g138">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 583 462 L 740 511"
+         stroke-miterlimit="10"
+         id="path136" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g142">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 729.044695029108 511.9906023393614 L 740 511 L 731.5529679334938 503.95389119673723"
+         stroke-miterlimit="10"
+         id="path140" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g146">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 570 462 L 569 511"
+         stroke-miterlimit="10"
+         id="path144" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g150">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 564.9987169383965 500.7535501825791 L 569 511 L 573.4159997626792 500.9253314647073"
+         stroke-miterlimit="10"
+         id="path148" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g154">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 559 462 L 427 511"
+         stroke-miterlimit="10"
+         id="path152" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g158">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 435.0624744607085 503.51691871149166 L 427 511 L 437.99236788758475 511.4096928410359"
+         stroke-miterlimit="10"
+         id="path156" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g162">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 575 385 L 570 455"
+         stroke-miterlimit="10"
+         id="path160" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g166">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 566.525240495762 444.5632358277239 L 570 455 L 574.9228807114221 445.16306727169956"
+         stroke-miterlimit="10"
+         id="path164" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g170">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 481 519 L 670.83349609375 519 Q 680.83349609375 519 680.83349609375 529 L 680.83349609375 549 Q 680.83349609375 559 670.83349609375 559 L 481 559 Q 471 559 471 549 L 471 529 Q 471 519 481 519 Z"
+         opacity="0.2"
+         id="path168" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g174">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 474 512 L 663.83349609375 512 Q 673.83349609375 512 673.83349609375 522 L 673.83349609375 542 Q 673.83349609375 552 663.83349609375 552 L 474 552 Q 464 552 464 542 L 464 522 Q 464 512 474 512 Z"
+         id="path172" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g178">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 474 512 L 663.83349609375 512 Q 673.83349609375 512 673.83349609375 522 L 673.83349609375 542 Q 673.83349609375 552 663.83349609375 552 L 474 552 Q 464 552 464 542 L 464 522 Q 464 512 474 512 Z"
+         stroke-miterlimit="10"
+         id="path176" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g186">
+      <g
+         id="g184">
+        <path
+           fill="none"
+           stroke="none"
+           id="path180" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="468.5"
+           y="530"
+           id="text182">Hallgató dolgozatának csatolása</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g190">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 313 519 L 444.33984375 519 Q 454.33984375 519 454.33984375 529 L 454.33984375 549 Q 454.33984375 559 444.33984375 559 L 313 559 Q 303 559 303 549 L 303 529 Q 303 519 313 519 Z"
+         opacity="0.2"
+         id="path188" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g194">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 306 512 L 437.33984375 512 Q 447.33984375 512 447.33984375 522 L 447.33984375 542 Q 447.33984375 552 437.33984375 552 L 306 552 Q 296 552 296 542 L 296 522 Q 296 512 306 512 Z"
+         id="path192" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g198">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 306 512 L 437.33984375 512 Q 447.33984375 512 447.33984375 522 L 447.33984375 542 Q 447.33984375 552 437.33984375 552 L 306 552 Q 296 552 296 542 L 296 522 Q 296 512 306 512 Z"
+         stroke-miterlimit="10"
+         id="path196" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g206">
+      <g
+         id="g204">
+        <path
+           fill="none"
+           stroke="none"
+           id="path200" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="300.5"
+           y="530"
+           id="text202">Bírálati űrlap csatolása</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g210">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 713 519 L 917.33154296875 519 Q 927.33154296875 519 927.33154296875 529 L 927.33154296875 549 Q 927.33154296875 559 917.33154296875 559 L 713 559 Q 703 559 703 549 L 703 529 Q 703 519 713 519 Z"
+         opacity="0.2"
+         id="path208" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g214">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 706 512 L 910.33154296875 512 Q 920.33154296875 512 920.33154296875 522 L 920.33154296875 542 Q 920.33154296875 552 910.33154296875 552 L 706 552 Q 696 552 696 542 L 696 522 Q 696 512 706 512 Z"
+         id="path212" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g218">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 706 512 L 910.33154296875 512 Q 920.33154296875 512 920.33154296875 522 L 920.33154296875 542 Q 920.33154296875 552 910.33154296875 552 L 706 552 Q 696 552 696 542 L 696 522 Q 696 512 706 512 Z"
+         stroke-miterlimit="10"
+         id="path216" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g226">
+      <g
+         id="g224">
+        <path
+           fill="none"
+           stroke="none"
+           id="path220" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="700.5"
+           y="530"
+           id="text222">Hallgató  témakiírásának csatolása</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g230">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 428 553 L 554 599"
+         stroke-miterlimit="10"
+         id="path228" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g234">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 543.010005074148 599.4690538665724 L 554 599 L 545.8972288929292 591.5605712325194"
+         stroke-miterlimit="10"
+         id="path232" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g238">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 566 553 L 562 599"
+         stroke-miterlimit="10"
+         id="path236" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g242">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 558.686696178883 588.5108619139144 L 562 599 L 567.0740810694301 589.2401997304837"
+         stroke-miterlimit="10"
+         id="path240" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g246">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 734 553 L 573 599"
+         stroke-miterlimit="10"
+         id="path244" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g250">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 581.6152117818561 592.1605463702306 L 573 599 L 583.9280987135297 600.2556506310877"
+         stroke-miterlimit="10"
+         id="path248" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g254">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 1193 527 L 1395.13525390625 527 Q 1405.13525390625 527 1405.13525390625 537 L 1405.13525390625 557 Q 1405.13525390625 567 1395.13525390625 567 L 1193 567 Q 1183 567 1183 557 L 1183 537 Q 1183 527 1193 527 Z"
+         opacity="0.2"
+         id="path252" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g258">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 1186 520 L 1388.13525390625 520 Q 1398.13525390625 520 1398.13525390625 530 L 1398.13525390625 550 Q 1398.13525390625 560 1388.13525390625 560 L 1186 560 Q 1176 560 1176 550 L 1176 530 Q 1176 520 1186 520 Z"
+         id="path256" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g262">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1186 520 L 1388.13525390625 520 Q 1398.13525390625 520 1398.13525390625 530 L 1398.13525390625 550 Q 1398.13525390625 560 1388.13525390625 560 L 1186 560 Q 1176 560 1176 550 L 1176 530 Q 1176 520 1186 520 Z"
+         stroke-miterlimit="10"
+         id="path260" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g270">
+      <g
+         id="g268">
+        <path
+           fill="none"
+           stroke="none"
+           id="path264" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="1180.5"
+           y="538"
+           id="text266">Módosítás eszközölése az emailen</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g274">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1063 651 L 1245 561"
+         stroke-miterlimit="10"
+         id="path272" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g278">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1237.7562432319505 569.2781633159378 L 1245 561 L 1234.024345051577 561.7314358845156"
+         stroke-miterlimit="10"
+         id="path276" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g286">
+      <g
+         id="g284">
+        <path
+           fill="none"
+           stroke="none"
+           id="path280" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="1095.5"
+           y="643"
+           id="text282">Módosítás</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g290">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1063 657 L 1239 659"
+         stroke-miterlimit="10"
+         id="path288" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g294">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1228.7901489024775 663.0937685042536 L 1239 659 L 1228.8858135840712 654.6752765240026"
+         stroke-miterlimit="10"
+         id="path292" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g302">
+      <g
+         id="g300">
+        <path
+           fill="none"
+           stroke="none"
+           id="path296" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="1089.5"
+           y="673"
+           id="text298">Nincs módosítás</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g306">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 1257 647 L 1325 647 Q 1335 647 1335 657 L 1335 677 Q 1335 687 1325 687 L 1257 687 Q 1247 687 1247 677 L 1247 657 Q 1247 647 1257 647 Z"
+         opacity="0.2"
+         id="path304" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g310">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 1250 640 L 1318 640 Q 1328 640 1328 650 L 1328 670 Q 1328 680 1318 680 L 1250 680 Q 1240 680 1240 670 L 1240 650 Q 1240 640 1250 640 Z"
+         id="path308" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g314">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1250 640 L 1318 640 Q 1328 640 1328 650 L 1328 670 Q 1328 680 1318 680 L 1250 680 Q 1240 680 1240 670 L 1240 650 Q 1240 640 1250 640 Z"
+         stroke-miterlimit="10"
+         id="path312" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g322">
+      <g
+         id="g320">
+        <path
+           fill="none"
+           stroke="none"
+           id="path316" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="1262.3291015625"
+           y="658"
+           id="text318">Küldés</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g332">
+      <g
+         id="g330">
+        <path
+           fill="none"
+           stroke="none"
+           id="path324" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="965"
+           y="687"
+           id="text326">Van</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="965"
+           y="700"
+           id="text328">módosítás?</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g336">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1173 185 L 1175 231"
+         stroke-miterlimit="10"
+         id="path334" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g340">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1170.3530169751095 221.02976686499363 L 1175 231 L 1178.7641062508148 220.6640673312673"
+         stroke-miterlimit="10"
+         id="path338" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g344">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 1121 151 L 1240.787109375 151 Q 1250.787109375 151 1250.787109375 161 L 1250.787109375 181 Q 1250.787109375 191 1240.787109375 191 L 1121 191 Q 1111 191 1111 181 L 1111 161 Q 1111 151 1121 151 Z"
+         opacity="0.2"
+         id="path342" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g348">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 1114 144 L 1233.787109375 144 Q 1243.787109375 144 1243.787109375 154 L 1243.787109375 174 Q 1243.787109375 184 1233.787109375 184 L 1114 184 Q 1104 184 1104 174 L 1104 154 Q 1104 144 1114 144 Z"
+         id="path346" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g352">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1114 144 L 1233.787109375 144 Q 1243.787109375 144 1243.787109375 154 L 1243.787109375 174 Q 1243.787109375 184 1233.787109375 184 L 1114 184 Q 1104 184 1104 174 L 1104 154 Q 1104 144 1114 144 Z"
+         stroke-miterlimit="10"
+         id="path350" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g360">
+      <g
+         id="g358">
+        <path
+           fill="none"
+           stroke="none"
+           id="path354" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="1108.5"
+           y="162"
+           id="text356">Hallgató kiválasztása</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g364">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 1121 239 L 1244.38623046875 239 Q 1254.38623046875 239 1254.38623046875 249 L 1254.38623046875 269 Q 1254.38623046875 279 1244.38623046875 279 L 1121 279 Q 1111 279 1111 269 L 1111 249 Q 1111 239 1121 239 Z"
+         opacity="0.2"
+         id="path362" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g368">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 1114 232 L 1237.38623046875 232 Q 1247.38623046875 232 1247.38623046875 242 L 1247.38623046875 262 Q 1247.38623046875 272 1237.38623046875 272 L 1114 272 Q 1104 272 1104 262 L 1104 242 Q 1104 232 1114 232 Z"
+         id="path366" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g372">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1114 232 L 1237.38623046875 232 Q 1247.38623046875 232 1247.38623046875 242 L 1247.38623046875 262 Q 1247.38623046875 272 1237.38623046875 272 L 1114 272 Q 1104 272 1104 262 L 1104 242 Q 1104 232 1114 232 Z"
+         stroke-miterlimit="10"
+         id="path370" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g380">
+      <g
+         id="g378">
+        <path
+           fill="none"
+           stroke="none"
+           id="path374" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="1108.5"
+           y="250"
+           id="text376">Dolgozat kiválasztása</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g384">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 1089 79 L 1274.99951171875 79 Q 1284.99951171875 79 1284.99951171875 89 L 1284.99951171875 109 Q 1284.99951171875 119 1274.99951171875 119 L 1089 119 Q 1079 119 1079 109 L 1079 89 Q 1079 79 1089 79 Z"
+         opacity="0.2"
+         id="path382" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g388">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 1082 72 L 1267.99951171875 72 Q 1277.99951171875 72 1277.99951171875 82 L 1277.99951171875 102 Q 1277.99951171875 112 1267.99951171875 112 L 1082 112 Q 1072 112 1072 102 L 1072 82 Q 1072 72 1082 72 Z"
+         id="path386" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g392">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1082 72 L 1267.99951171875 72 Q 1277.99951171875 72 1277.99951171875 82 L 1277.99951171875 102 Q 1277.99951171875 112 1267.99951171875 112 L 1082 112 Q 1072 112 1072 102 L 1072 82 Q 1072 72 1082 72 Z"
+         stroke-miterlimit="10"
+         id="path390" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g400">
+      <g
+         id="g398">
+        <path
+           fill="none"
+           stroke="none"
+           id="path394" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="1076.5"
+           y="90"
+           id="text396">Továbbítás funkció kiválasztása</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g404">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1176 52 L 1175 71"
+         stroke-miterlimit="10"
+         id="path402" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g408">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1171.3304388478734 60.63012435220154 L 1175 71 L 1179.7378378159722 61.07261903473305"
+         stroke-miterlimit="10"
+         id="path406" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g412">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 1047 664.5 L 1058.5 655 L 1069 664.5 L 1058.5 673 L 1047 664.5"
+         opacity="0.2"
+         id="path410" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g416">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 1040 657 L 1051 648 L 1062 657 L 1051 666 L 1040 657"
+         id="path414" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g420">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1040 657 L 1051 648 L 1062 657 L 1051 666 L 1040 657 L 1040 657"
+         stroke-miterlimit="10"
+         id="path418" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g424">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 538 607 L 601 607 Q 604 607 604 610 L 604 609 Q 604 612 601 612 L 538 612 Q 535 612 535 609 L 535 610 Q 535 607 538 607 Z"
+         opacity="0.2"
+         id="path422" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g428">
+      <path
+         fill="#000000"
+         stroke="none"
+         d="M 531 600 L 594 600 Q 597 600 597 603 L 597 603 Q 597 606 594 606 L 531 606 Q 528 606 528 603 L 528 603 Q 528 600 531 600 Z"
+         id="path426" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g432">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1103 252 L 777 252"
+         stroke-miterlimit="10"
+         id="path430" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g436">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 787.1626748576241 247.790482243984 L 777 252 L 787.1626748576241 256.209517756016"
+         stroke-miterlimit="10"
+         id="path434" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g446">
+      <g
+         id="g444">
+        <path
+           fill="none"
+           stroke="none"
+           id="path438" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="1309"
+           y="807"
+           id="text440">Küldés</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="1309"
+           y="820"
+           id="text442">megerősítése</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g450">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 1279 816.5 L 1290.5 807 L 1301 816.5 L 1290.5 825 L 1279 816.5"
+         opacity="0.2"
+         id="path448" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g454">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 1272 809 L 1283 800 L 1294 809 L 1283 818 L 1272 809"
+         id="path452" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g458">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1272 809 L 1283 800 L 1294 809 L 1283 818 L 1272 809 L 1272 809"
+         stroke-miterlimit="10"
+         id="path456" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g462">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 481 871 L 703.365234375 871 Q 713.365234375 871 713.365234375 881 L 713.365234375 901 Q 713.365234375 911 703.365234375 911 L 481 911 Q 471 911 471 901 L 471 881 Q 471 871 481 871 Z"
+         opacity="0.2"
+         id="path460" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g466">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 474 864 L 696.365234375 864 Q 706.365234375 864 706.365234375 874 L 706.365234375 894 Q 706.365234375 904 696.365234375 904 L 474 904 Q 464 904 464 894 L 464 874 Q 464 864 474 864 Z"
+         id="path464" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g470">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 474 864 L 696.365234375 864 Q 706.365234375 864 706.365234375 874 L 706.365234375 894 Q 706.365234375 904 696.365234375 904 L 474 904 Q 464 904 464 894 L 464 874 Q 464 864 474 864 Z"
+         stroke-miterlimit="10"
+         id="path468" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g478">
+      <g
+         id="g476">
+        <path
+           fill="none"
+           stroke="none"
+           id="path472" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="468.5"
+           y="883"
+           id="text474">Üzenet továbbítása a címzett számára</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g488">
+      <g
+         id="g486">
+        <path
+           fill="none"
+           stroke="none"
+           id="path480" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="509"
+           y="935"
+           id="text482">Továbbítás</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="509"
+           y="948"
+           id="text484">sikeres?</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g492">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 583 905 L 580 951"
+         stroke-miterlimit="10"
+         id="path490" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g496">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 576.4607840884197 940.5849171519753 L 580 951 L 584.8619721372962 941.1328207203803"
+         stroke-miterlimit="10"
+         id="path494" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g500">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 591 966 L 732 1031"
+         stroke-miterlimit="10"
+         id="path498" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g504">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 721.0084758270468 1030.5682635579592 L 732 1031 L 724.5331024875813 1022.9225349558765"
+         stroke-miterlimit="10"
+         id="path502" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g512">
+      <g
+         id="g510">
+        <path
+           fill="none"
+           stroke="none"
+           id="path506" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="667.5"
+           y="1000"
+           id="text508">Sikeres</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g516">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 567 967 L 446 1031"
+         stroke-miterlimit="10"
+         id="path514" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g520">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 453.01528594429976 1022.5273520597331 L 446 1031 L 456.95162307634604 1029.969489450008"
+         stroke-miterlimit="10"
+         id="path518" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g528">
+      <g
+         id="g526">
+        <path
+           fill="none"
+           stroke="none"
+           id="path522" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="406.5"
+           y="1010"
+           id="text524">Sikertelen</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g532">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 778 1073 L 778 1143"
+         stroke-miterlimit="10"
+         id="path530" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g536">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 773.790482243984 1132.837325142376 L 778 1143 L 782.209517756016 1132.837325142376"
+         stroke-miterlimit="10"
+         id="path534" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g540">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 279 1054 L 144 1056 L 144 256 L 471 253"
+         stroke-miterlimit="10"
+         id="path538" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g544">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 460.87637060518176 257.30257223952975 L 471 253 L 460.7991349975881 248.88389101182102"
+         stroke-miterlimit="10"
+         id="path542" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g548">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 297 1039 L 530.21337890625 1039 Q 540.21337890625 1039 540.21337890625 1049 L 540.21337890625 1069 Q 540.21337890625 1079 530.21337890625 1079 L 297 1079 Q 287 1079 287 1069 L 287 1049 Q 287 1039 297 1039 Z"
+         opacity="0.2"
+         id="path546" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g552">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 290 1032 L 523.21337890625 1032 Q 533.21337890625 1032 533.21337890625 1042 L 533.21337890625 1062 Q 533.21337890625 1072 523.21337890625 1072 L 290 1072 Q 280 1072 280 1062 L 280 1042 Q 280 1032 290 1032 Z"
+         id="path550" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g556">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 290 1032 L 523.21337890625 1032 Q 533.21337890625 1032 533.21337890625 1042 L 533.21337890625 1062 Q 533.21337890625 1072 523.21337890625 1072 L 290 1072 Q 280 1072 280 1062 L 280 1042 Q 280 1032 290 1032 Z"
+         stroke-miterlimit="10"
+         id="path554" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g564">
+      <g
+         id="g562">
+        <path
+           fill="none"
+           stroke="none"
+           id="path558" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="284.5"
+           y="1050"
+           id="text560">Konzulens értesítése a sikertelenségről</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g568">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 673 1039 L 897.5615234375 1039 Q 907.5615234375 1039 907.5615234375 1049 L 907.5615234375 1069 Q 907.5615234375 1079 897.5615234375 1079 L 673 1079 Q 663 1079 663 1069 L 663 1049 Q 663 1039 673 1039 Z"
+         opacity="0.2"
+         id="path566" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g572">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 666 1032 L 890.5615234375 1032 Q 900.5615234375 1032 900.5615234375 1042 L 900.5615234375 1062 Q 900.5615234375 1072 890.5615234375 1072 L 666 1072 Q 656 1072 656 1062 L 656 1042 Q 656 1032 666 1032 Z"
+         id="path570" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g576">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 666 1032 L 890.5615234375 1032 Q 900.5615234375 1032 900.5615234375 1042 L 900.5615234375 1062 Q 900.5615234375 1072 890.5615234375 1072 L 666 1072 Q 656 1072 656 1062 L 656 1042 Q 656 1032 666 1032 Z"
+         stroke-miterlimit="10"
+         id="path574" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g584">
+      <g
+         id="g582">
+        <path
+           fill="none"
+           stroke="none"
+           id="path578" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="660.5"
+           y="1050"
+           id="text580">Konzulens értesítése a sikerességéről</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g588">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 361 1247 L 568.89892578125 1247 Q 578.89892578125 1247 578.89892578125 1257 L 578.89892578125 1277 Q 578.89892578125 1287 568.89892578125 1287 L 361 1287 Q 351 1287 351 1277 L 351 1257 Q 351 1247 361 1247 Z"
+         opacity="0.2"
+         id="path586" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g592">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 354 1240 L 561.89892578125 1240 Q 571.89892578125 1240 571.89892578125 1250 L 571.89892578125 1270 Q 571.89892578125 1280 561.89892578125 1280 L 354 1280 Q 344 1280 344 1270 L 344 1250 Q 344 1240 354 1240 Z"
+         id="path590" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g596">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 354 1240 L 561.89892578125 1240 Q 571.89892578125 1240 571.89892578125 1250 L 571.89892578125 1270 Q 571.89892578125 1280 561.89892578125 1280 L 354 1280 Q 344 1280 344 1270 L 344 1250 Q 344 1240 354 1240 Z"
+         stroke-miterlimit="10"
+         id="path594" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g604">
+      <g
+         id="g602">
+        <path
+           fill="none"
+           stroke="none"
+           id="path598" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="348.5"
+           y="1258"
+           id="text600">Bírálóhoz rendeli a bírálás feladatát</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g608">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 776 1185 L 772 1247"
+         stroke-miterlimit="10"
+         id="path606" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g612">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 768.453511850606 1236.5873912103543 L 772 1247 L 776.8550804651669 1237.1294278951646"
+         stroke-miterlimit="10"
+         id="path610" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g616">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 759 1257 L 573 1259"
+         stroke-miterlimit="10"
+         id="path614" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g620">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 583.1168263874775 1254.6814558187234 L 573 1259 L 583.2073484181068 1263.100004667238"
+         stroke-miterlimit="10"
+         id="path618" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g628">
+      <g
+         id="g626">
+        <path
+           fill="none"
+           stroke="none"
+           id="path622" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="671.5"
+           y="1276"
+           id="text624">Igen</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g640">
+      <g
+         id="g638">
+        <path
+           fill="none"
+           stroke="none"
+           id="path630" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="797"
+           y="1255"
+           id="text632">Tanszéki</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="797"
+           y="1268"
+           id="text634">kolléga a</text>
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="797"
+           y="1281"
+           id="text636">Bíráló?</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g644">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 759 1265 L 598 1375"
+         stroke-miterlimit="10"
+         id="path642" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g648">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 604.0164379876661 1365.7911741280136 L 598 1375 L 608.7658873205148 1372.7426408788194"
+         stroke-miterlimit="10"
+         id="path646" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g656">
+      <g
+         id="g654">
+        <path
+           fill="none"
+           stroke="none"
+           id="path650" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="727.5"
+           y="1307"
+           id="text652">Nem</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g660">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 481 1281 L 591 1375"
+         stroke-miterlimit="10"
+         id="path658" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g664">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 580.53929197767 1371.5980023998302 L 591 1375 L 586.0087379940583 1365.1975868487375"
+         stroke-miterlimit="10"
+         id="path662" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g668">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 594 1382 L 588 1439"
+         stroke-miterlimit="10"
+         id="path666" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g672">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 584.8774890650699 1428.452491978612 L 588 1439 L 593.2502657901247 1429.333836897039"
+         stroke-miterlimit="10"
+         id="path670" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g676">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 575 968.5 L 586.5 959 L 597 968.5 L 586.5 977 L 575 968.5"
+         opacity="0.2"
+         id="path674" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g680">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 568 961 L 579 952 L 590 961 L 579 970 L 568 961"
+         id="path678" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g684">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 568 961 L 579 952 L 590 961 L 579 970 L 568 961 L 568 961"
+         stroke-miterlimit="10"
+         id="path682" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g688">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 586 1481 L 587 1535"
+         stroke-miterlimit="10"
+         id="path686" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g692">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 582.603038433977 1524.9170079347984 L 587 1535 L 591.0206307240026 1524.7611265960943"
+         stroke-miterlimit="10"
+         id="path690" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g696">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 587 1577 L 588 1623"
+         stroke-miterlimit="10"
+         id="path694" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g700">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 583.570601050423 1612.9312153193405 L 588 1623 L 591.9876478921751 1612.7482360401718"
+         stroke-miterlimit="10"
+         id="path698" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g704">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1283 819 L 1280 880 L 707 883"
+         stroke-miterlimit="10"
+         id="path702" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g708">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 717.1404965153388 878.7373329449274 L 707 883 L 717.1845746311769 887.1562530700123"
+         stroke-miterlimit="10"
+         id="path706" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g716">
+      <g
+         id="g714">
+        <path
+           fill="none"
+           stroke="none"
+           id="path710" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="1287.5"
+           y="867"
+           id="text712">Megerősít</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g720">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1284 681 L 1283 799"
+         stroke-miterlimit="10"
+         id="path718" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g724">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1278.8767546670558 788.8020174581267 L 1283 799 L 1287.29548787436 788.8733626547987"
+         stroke-miterlimit="10"
+         id="path722" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g728">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1174 113 L 1173 143"
+         stroke-miterlimit="10"
+         id="path726" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g732">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1169.1313867055028 132.7027270028595 L 1173 143 L 1177.5457488696798 132.9832057416654"
+         stroke-miterlimit="10"
+         id="path730" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g736">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1175 538 L 1048 536 L 1051 647"
+         stroke-miterlimit="10"
+         id="path734" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g740">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1046.517452218431 636.9547640452824 L 1051 647 L 1054.9334145288594 636.7273056044601"
+         stroke-miterlimit="10"
+         id="path738" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g744">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1271 809 L 1048 808 L 1051 667"
+         stroke-miterlimit="10"
+         id="path742" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g748">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1054.9923870697423 677.2499192916507 L 1051 667 L 1046.5752565323953 677.0708314078773"
+         stroke-miterlimit="10"
+         id="path746" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g756">
+      <g
+         id="g754">
+        <path
+           fill="none"
+           stroke="none"
+           id="path750" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="1182.5"
+           y="826"
+           id="text752">Nem erősít meg</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g760">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 562 606 L 560 656 L 1039 657"
+         stroke-miterlimit="10"
+         id="path758" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g764">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1028.8285591707743 661.1882921886561 L 1039 657 L 1028.8461354070273 652.7692750234061"
+         stroke-miterlimit="10"
+         id="path762" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g768">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 721 1151 L 850.8798828125 1151 Q 860.8798828125 1151 860.8798828125 1161 L 860.8798828125 1181 Q 860.8798828125 1191 850.8798828125 1191 L 721 1191 Q 711 1191 711 1181 L 711 1161 Q 711 1151 721 1151 Z"
+         opacity="0.2"
+         id="path766" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g772">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 714 1144 L 843.8798828125 1144 Q 853.8798828125 1144 853.8798828125 1154 L 853.8798828125 1174 Q 853.8798828125 1184 843.8798828125 1184 L 714 1184 Q 704 1184 704 1174 L 704 1154 Q 704 1144 714 1144 Z"
+         id="path770" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g776">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 714 1144 L 843.8798828125 1144 Q 853.8798828125 1144 853.8798828125 1154 L 853.8798828125 1174 Q 853.8798828125 1184 843.8798828125 1184 L 714 1184 Q 704 1184 704 1174 L 704 1154 Q 704 1144 714 1144 Z"
+         stroke-miterlimit="10"
+         id="path774" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g784">
+      <g
+         id="g782">
+        <path
+           fill="none"
+           stroke="none"
+           id="path778" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="708.5"
+           y="1162"
+           id="text780">Kiküldött levél iktatása</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g788">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 767 1264.5 L 778.5 1255 L 789 1264.5 L 778.5 1273 L 767 1264.5"
+         opacity="0.2"
+         id="path786" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g792">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 760 1257 L 771 1248 L 782 1257 L 771 1266 L 760 1257"
+         id="path790" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g796">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 760 1257 L 771 1248 L 782 1257 L 771 1266 L 760 1257 L 760 1257"
+         stroke-miterlimit="10"
+         id="path794" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g800">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 570 1383 L 633 1383 Q 636 1383 636 1386 L 636 1385 Q 636 1388 633 1388 L 570 1388 Q 567 1388 567 1385 L 567 1386 Q 567 1383 570 1383 Z"
+         opacity="0.2"
+         id="path798" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g804">
+      <path
+         fill="#000000"
+         stroke="none"
+         d="M 563 1376 L 626 1376 Q 629 1376 629 1379 L 629 1379 Q 629 1382 626 1382 L 563 1382 Q 560 1382 560 1379 L 560 1379 Q 560 1376 563 1376 Z"
+         id="path802" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g808">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 409 1447 L 777.99609375 1447 Q 787.99609375 1447 787.99609375 1457 L 787.99609375 1477 Q 787.99609375 1487 777.99609375 1487 L 409 1487 Q 399 1487 399 1477 L 399 1457 Q 399 1447 409 1447 Z"
+         opacity="0.2"
+         id="path806" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g812">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 402 1440 L 770.99609375 1440 Q 780.99609375 1440 780.99609375 1450 L 780.99609375 1470 Q 780.99609375 1480 770.99609375 1480 L 402 1480 Q 392 1480 392 1470 L 392 1450 Q 392 1440 402 1440 Z"
+         id="path810" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g816">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 402 1440 L 770.99609375 1440 Q 780.99609375 1440 780.99609375 1450 L 780.99609375 1470 Q 780.99609375 1480 770.99609375 1480 L 402 1480 Q 392 1480 392 1470 L 392 1450 Q 392 1440 402 1440 Z"
+         stroke-miterlimit="10"
+         id="path814" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g824">
+      <g
+         id="g822">
+        <path
+           fill="none"
+           stroke="none"
+           id="path818" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="396.5"
+           y="1458"
+           id="text820">Bírálatra továbbítás feladat törlése a Konzulens kezdőlapjáról</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g828">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 545 1543 L 643.08447265625 1543 Q 653.08447265625 1543 653.08447265625 1553 L 653.08447265625 1573 Q 653.08447265625 1583 643.08447265625 1583 L 545 1583 Q 535 1583 535 1573 L 535 1553 Q 535 1543 545 1543 Z"
+         opacity="0.2"
+         id="path826" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g832">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 538 1536 L 636.08447265625 1536 Q 646.08447265625 1536 646.08447265625 1546 L 646.08447265625 1566 Q 646.08447265625 1576 636.08447265625 1576 L 538 1576 Q 528 1576 528 1566 L 528 1546 Q 528 1536 538 1536 Z"
+         id="path830" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g836">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 538 1536 L 636.08447265625 1536 Q 646.08447265625 1536 646.08447265625 1546 L 646.08447265625 1566 Q 646.08447265625 1576 636.08447265625 1576 L 538 1576 Q 528 1576 528 1566 L 528 1546 Q 528 1536 538 1536 Z"
+         stroke-miterlimit="10"
+         id="path834" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g844">
+      <g
+         id="g842">
+        <path
+           fill="none"
+           stroke="none"
+           id="path838" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="532.5"
+           y="1554"
+           id="text840">Kezdőlapra ugrás</text>
+      </g>
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g848">
+      <path
+         fill="#C0C0C0"
+         stroke="none"
+         d="M 583 1643.5 C 583 1636.59644 588.59644 1631 595.5 1631 C 602.40356 1631 608 1636.59644 608 1643.5 C 608 1650.40356 602.40356 1656 595.5 1656 C 588.59644 1656 583 1650.40356 583 1643.5 Z"
+         opacity="0.2"
+         id="path846" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g852">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 576 1636.5 C 576 1629.59644 581.59644 1624 588.5 1624 C 595.40356 1624 601 1629.59644 601 1636.5 C 601 1643.40356 595.40356 1649 588.5 1649 C 581.59644 1649 576 1643.40356 576 1636.5 Z"
+         stroke-miterlimit="10"
+         id="path850" />
+    </g>
+    <g
+       transform="translate(10,10) scale(1,1)"
+       id="g856">
+      <path
+         fill="#000000"
+         stroke="none"
+         d="M 581 1636.5 C 581 1632.357864 584.357864 1629 588.5 1629 C 592.642136 1629 596 1632.357864 596 1636.5 C 596 1640.642136 592.642136 1644 588.5 1644 C 584.357864 1644 581 1640.642136 581 1636.5 Z"
+         id="path854" />
+    </g>
+  </g>
+</svg>
