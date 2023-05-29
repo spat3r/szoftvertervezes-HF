@@ -677,37 +677,6 @@
      stroke-dasharray="5.99999, 5.99999"
      pointer-events="none"
      id="path176" />
-  <g
-     transform="translate(31.85428,128.72143)"
-     id="g184">
-    <switch
-       id="switch182">
-      <foreignObject
-         pointer-events="none"
-         width="100%"
-         height="100%"
-         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-         style="overflow: visible; text-align: left;">
-        <xhtml:div
-           style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 485px; margin-left: 244px;">
-          <xhtml:div
-             data-drawio-colors="color: rgb(0, 0, 0); "
-             style="box-sizing: border-box; font-size: 0px; text-align: center;">
-            <xhtml:div
-               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">nyugtázza</xhtml:div>
-          </xhtml:div>
-        </xhtml:div>
-      </foreignObject>
-      <text
-         x="244"
-         y="489"
-         fill="#000000"
-         font-family="Helvetica"
-         font-size="12px"
-         text-anchor="middle"
-         id="text180" />
-    </switch>
-  </g>
   <path
      d="M 1011.8543,384.32516 H 678.22426"
      fill="none"
