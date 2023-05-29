@@ -44,13 +44,13 @@
      inkscape:window-height="1017"
      id="namedview306"
      showgrid="false"
-     inkscape:zoom="0.41667936"
-     inkscape:cx="1081.0388"
-     inkscape:cy="921.59646"
+     inkscape:zoom="1.6667174"
+     inkscape:cx="1521.0032"
+     inkscape:cy="906.626"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg304"
      inkscape:document-rotation="0"
      inkscape:snap-center="false"
      inkscape:snap-object-midpoints="true"
@@ -884,15 +884,15 @@
      pointer-events="none"
      id="path274" />
   <path
-     d="M 1247.8856,1644.0744 H 358.91231"
+     d="M 655.70363,1682.0744 H 358.91231"
      fill="none"
      stroke="#000000"
      stroke-miterlimit="10"
      pointer-events="none"
      id="path282"
-     style="stroke-width:1" />
+     style="stroke-width:0.999999" />
   <path
-     d="m 353.6623,1644.0744 7,-3.5 -1.75,3.5 1.75,3.5 z"
+     d="m 353.6623,1682.0744 7,-3.5 -1.75,3.5 1.75,3.5 z"
      fill="#000000"
      stroke="#000000"
      stroke-miterlimit="10"
@@ -914,7 +914,7 @@
      pointer-events="none"
      id="path288" />
   <path
-     d="M 657.57052,1699.8613 H 360.00331"
+     d="M 657.57052,1707.8613 H 360.00331"
      fill="none"
      stroke="#000000"
      stroke-miterlimit="10"
@@ -922,7 +922,7 @@
      id="path290"
      style="stroke-width:0.999998" />
   <path
-     d="m 354.75331,1699.8613 7,-3.5 -1.75,3.5 1.75,3.5 z"
+     d="m 354.75331,1707.8613 7,-3.5 -1.75,3.5 1.75,3.5 z"
      fill="#000000"
      stroke="#000000"
      stroke-miterlimit="10"
@@ -950,13 +950,13 @@
   <text
      xml:space="preserve"
      style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px"
-     x="1072.5554"
-     y="1638.3168"
+     x="481.57343"
+     y="1676.3168"
      id="text1292"><tspan
        sodipodi:role="line"
        id="tspan1290"
-       x="1072.5554"
-       y="1638.3168">töröl_Konzulens_feladat()</tspan></text>
+       x="481.57343"
+       y="1676.3168">töröl_Konzulens_feladat()</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px"
@@ -1101,12 +1101,12 @@
      xml:space="preserve"
      style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px"
      x="1099.6084"
-     y="1669.9017"
+     y="1657.9017"
      id="text1364"><tspan
        sodipodi:role="line"
        id="tspan1362"
        x="1099.6084"
-       y="1669.9017">megjelenít_Főmenü()</tspan></text>
+       y="1657.9017">megjelenít_Főmenü()</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px"
@@ -1147,6 +1147,14 @@
        id="tspan1378"
        x="1751.829"
        y="1535.9603">iktat_Email()</tspan></text>
+  <path
+     d="M 1247.4998,1663.0035 H 677.99762"
+     fill="none"
+     stroke="#000000"
+     stroke-miterlimit="10"
+     pointer-events="none"
+     id="path216-0-5"
+     style="stroke-width:1" />
   <rect
      x="1014.2299"
      y="216.82515"
@@ -2013,7 +2021,7 @@
      id="path266-3-44" />
   <g
      id="g2500"
-     transform="matrix(1.1566522,0,0,0.75761019,-174.29408,364.50923)"
+     transform="matrix(1.1566522,0,0,0.75761019,-179.88957,398.72765)"
      style="stroke-width:1.06826">
     <path
        style="fill:none;stroke:#000000;stroke-width:1.06826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2025,15 +2033,7 @@
        id="path2481-8" />
   </g>
   <path
-     d="M 1247.4998,1675.0035 H 677.99762"
-     fill="none"
-     stroke="#000000"
-     stroke-miterlimit="10"
-     pointer-events="none"
-     id="path216-0-5"
-     style="stroke-width:1" />
-  <path
-     d="m 677.23591,1675.0865 7,3.5 -1.75,-3.5 1.75,-3.5 z"
+     d="m 677.23591,1663.0865 7,3.5 -1.75,-3.5 1.75,-3.5 z"
      fill="#000000"
      stroke="#000000"
      stroke-miterlimit="10"
@@ -2041,7 +2041,7 @@
      id="path266-3-44-6" />
   <g
      id="g2500-3"
-     transform="matrix(-1.1566522,0,0,0.75761019,2993.5883,378.40381)"
+     transform="matrix(-1.1566522,0,0,0.75761019,2989.476,408.90985)"
      style="stroke-width:1.06826">
     <path
        style="fill:none;stroke:#000000;stroke-width:1.06826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2069,7 +2069,7 @@
      id="path266-3-44-5" />
   <g
      id="g2500-3-6"
-     transform="matrix(-1.1566522,0,0,0.75761019,2759.7115,397.19954)"
+     transform="matrix(-1.1566522,0,0,0.75761019,2754.8977,417.50495)"
      style="stroke-width:1.06826">
     <path
        style="fill:none;stroke:#000000;stroke-width:1.06826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2082,7 +2082,7 @@
   </g>
   <g
      id="g2500-3-0"
-     transform="matrix(-1.1566522,0,0,0.75761019,2402.7224,411.7988)"
+     transform="matrix(-1.1566522,0,0,0.75761019,2397.3631,433.65005)"
      style="stroke-width:1.06826">
     <path
        style="fill:none;stroke:#000000;stroke-width:1.06826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2106,13 +2106,13 @@
   <text
      xml:space="preserve"
      style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px"
-     x="363.7533"
-     y="1694.3613"
+     x="368.55316"
+     y="1701.7614"
      id="text1364-0"><tspan
        sodipodi:role="line"
        id="tspan1362-2"
-       x="363.7533"
-       y="1694.3613">megjelenít_Főmenü()</tspan></text>
+       x="368.55316"
+       y="1701.7614">megjelenít_Főmenü()</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px"
