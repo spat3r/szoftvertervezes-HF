@@ -7,7 +7,7 @@ Feladatunk
  : 11. Két féléves diplomaterv első féléve után a beadott dolgozat kiküldése tanszéki kollégák/bírálók részére (konzulens).
 
 
-
+# Szoftvertervezés házi feladat 1. modul
 
 ## Aktorok
 
@@ -71,8 +71,6 @@ A Szakdolgozat vagy Diplomaterv értékelésére felkért, a munka elkészítés
 ## USE CASE-ek
 
 ### USE CASE DIAGRAM
-
-![Use Case Diagram](../png/ucd.png)
 
 #### USE CASE [UC1]: Dolgozat feltöltése
 - Aktorok: Hallgató
@@ -267,6 +265,8 @@ A Szakdolgozat vagy Diplomaterv értékelésére felkért, a munka elkészítés
   - A továbbító felület milyen (beépített) email kliens legyen?
 
 
+# Szoftvertervezés házi feladat 2. modul
+
 ### System Sequence Diagram és Activity Diagram
 ![    ](./../png/ucd.png)
 ##### UC5: Leadott dolgozat bírálatra továbbítása
@@ -274,11 +274,10 @@ A Szakdolgozat vagy Diplomaterv értékelésére felkért, a munka elkészítés
 
 ![Leadott dolgozat bírálatra továbbítása - Aktivitás Diagram](./../png/uc5_ad.png)
 
+# Szoftvertervezés házi feladat 3. modul
 
-### 
+### Kommunikációs diagram
+![    ](./../png/interactivity_d.png)
 
+### Design Class Diagram
 ![    ](./../png/uc5_dcd.png)
-
-
-![    ](./../png/uc5_ad.png)
-
