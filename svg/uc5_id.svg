@@ -45,9 +45,9 @@
      inkscape:window-height="1017"
      id="namedview306"
      showgrid="false"
-     inkscape:zoom="0.5892736"
-     inkscape:cx="724.15082"
-     inkscape:cy="1283.2318"
+     inkscape:zoom="1.1785472"
+     inkscape:cx="1745.3273"
+     inkscape:cy="1323.2293"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -529,7 +529,7 @@
     </g>
   </g>
   <path
-     d="M 1253.428,651.22145 V 1687.9848"
+     d="M 1253.428,651.22145 V 1583.588"
      fill="none"
      stroke="#000000"
      stroke-width="1"
@@ -859,7 +859,17 @@
      pointer-events="none"
      id="path268" />
   <rect
-     x="1713.0087"
+     x="1716.0087"
+     y="1504.9474"
+     width="10"
+     height="58.268803"
+     fill="#ffffff"
+     stroke="#000000"
+     pointer-events="none"
+     id="rect270-9"
+     style="stroke-width:1" />
+  <rect
+     x="1721.0087"
      y="1538.6161"
      width="10"
      height="20"
@@ -868,7 +878,7 @@
      pointer-events="none"
      id="rect270" />
   <path
-     d="m 1718.0084,1518.6161 h 30 v 20 h -14.76"
+     d="m 1726.0084,1518.6161 h 30 v 20 h -14.76"
      fill="none"
      stroke="#000000"
      stroke-width="2"
@@ -877,7 +887,7 @@
      pointer-events="none"
      id="path272" />
   <path
-     d="m 1725.2484,1538.6161 8,-4 v 8 z"
+     d="m 1733.2484,1538.6161 8,-4 v 8 z"
      fill="#000000"
      stroke="#000000"
      stroke-width="2"
@@ -1102,12 +1112,12 @@
      xml:space="preserve"
      style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px"
      x="1038.4103"
-     y="1558.7018"
+     y="1550.7018"
      id="text1364"><tspan
        sodipodi:role="line"
        id="tspan1362"
        x="1038.4103"
-       y="1558.7018">megjelenít_Továbbító_felület()</tspan></text>
+       y="1550.7018">megjelenít_Továbbító_felület()</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px"
@@ -1141,15 +1151,15 @@
   <text
      xml:space="preserve"
      style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px"
-     x="1751.829"
+     x="1759.829"
      y="1535.9603"
      id="text1380"><tspan
        sodipodi:role="line"
        id="tspan1378"
-       x="1751.829"
+       x="1759.829"
        y="1535.9603">iktat_Email()</tspan></text>
   <path
-     d="M 1247.4998,1565.0035 H 677.99762"
+     d="M 1247.4998,1557.0035 H 677.99762"
      fill="none"
      stroke="#000000"
      stroke-miterlimit="10"
@@ -1261,7 +1271,7 @@
      x="1248.0581"
      y="681.22162"
      width="20"
-     height="997.28174"
+     height="890.48499"
      fill="#ffffff"
      stroke="#000000"
      pointer-events="none"
@@ -2035,7 +2045,7 @@
        id="path2481-8" />
   </g>
   <path
-     d="m 677.23591,1565.0865 7,3.5 -1.75,-3.5 1.75,-3.5 z"
+     d="m 677.23591,1557.0865 7,3.5 -1.75,-3.5 1.75,-3.5 z"
      fill="#000000"
      stroke="#000000"
      stroke-miterlimit="10"
@@ -2043,7 +2053,7 @@
      id="path266-3-44-6" />
   <g
      id="g2500-3"
-     transform="matrix(-1.1566522,0,0,0.75761019,2989.476,387.91045)"
+     transform="matrix(-1.1566522,0,0,0.75761019,3014.0753,305.71297)"
      style="stroke-width:1.06826">
     <path
        style="fill:none;stroke:#000000;stroke-width:1.06826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2055,7 +2065,7 @@
        id="path2481-8-6" />
   </g>
   <path
-     d="M 677.20413,1596.8223 H 1012.8736"
+     d="M 677.20413,1588.8223 H 1012.8736"
      fill="none"
      stroke="#000000"
      stroke-miterlimit="10"
@@ -2063,7 +2073,7 @@
      id="path216-0-3"
      style="stroke-width:1" />
   <path
-     d="m 1013.6353,1596.9053 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
+     d="m 1013.6353,1588.9053 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
      fill="#000000"
      stroke="#000000"
      stroke-miterlimit="10"
@@ -2099,12 +2109,12 @@
      xml:space="preserve"
      style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px"
      x="680.95752"
-     y="1591.0994"
+     y="1583.0994"
      id="text2580"><tspan
        sodipodi:role="line"
        id="tspan2578"
        x="680.95752"
-       y="1591.0994">bezár_Továbbító_felület()</tspan></text>
+       y="1583.0994">bezár_Továbbító_felület()</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px"
