@@ -277,7 +277,7 @@ A Szakdolgozat vagy Diplomaterv értékelésére felkért, a munka elkészítés
 # Szoftvertervezés házi feladat 3. modul
 
 ### Kommunikációs diagram
-![    ](./../png/interactivity_d.png)
+![    ](./../png/uc5_id.png)
 
 ### Design Class Diagram
 ![    ](./../png/uc5_dcd.png)
